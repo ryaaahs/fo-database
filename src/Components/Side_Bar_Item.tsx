@@ -5,7 +5,7 @@ interface SideBarItemInterface {
 function Side_Bar_Item({ name }:SideBarItemInterface) {
     return (
         <>
-            <div className="my-2">
+            <div className="min-w-max p-2 hover:bg-[#345ba8] hover:cursor-pointer">
                 { name }
             </div>
         </>
