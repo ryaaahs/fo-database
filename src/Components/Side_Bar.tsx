@@ -1,4 +1,4 @@
-import Side_Bar_Item from "./Side_Bar_Item"
+import Side_Bar_Item from "./Side_Bar_Item/Side_Bar_Item"
 
 const section_one_items = [
     "Home",
