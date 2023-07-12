@@ -1,16 +1,17 @@
 import Side_Bar_Item from "./Side_Bar_Item/Side_Bar_Item"
 
 const section_one_items = [
-    "Home",
+    {id: 1, name: "Home"},
 ];
 
 const section_two_items = [
-    "Items",
-    "Enemies",
+    {id: 1, name: "Maps"},
+    {id: 2, name: "Items"},
+    {id: 3, name: "Enemies"},
 ]
 
-const itemSectionOneList = section_one_items.map(item => <Side_Bar_Item name={item}/>)
-const itemSectionTwoList = section_two_items.map(item => <Side_Bar_Item name={item}/>)
+const itemSectionOneList = section_one_items.map(item => <Side_Bar_Item name={item.name}/>)
+const itemSectionTwoList = section_two_items.map(item => <Side_Bar_Item name={item.name}/>)
 
 function Side_Bar() {
     return (
