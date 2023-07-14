@@ -1,0 +1,709 @@
+[
+    {
+      "Level": 1,
+      "Name": "Scarecrab",
+      "Health": 30,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 2
+      },
+      "Drops": []
+    },
+    {
+      "Level": 1,
+      "Name": "Soft Shelled Crab",
+      "Health": 20,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 1
+      },
+      "Drops": [
+        {
+          "Name": "Adult Diapers"
+        },
+        {
+          "Name": "Tiny Crab Claw"
+        },
+        {
+          "Name": "Class Ring"
+        },
+        {
+          "Name": "Toy Bow"
+        }
+      ]
+    },
+    {
+      "Level": 2,
+      "Name": "Turniphead",
+      "Health": 36,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 1
+      },
+      "Drops": [
+        {
+          "Name": "Turnip"
+        },
+        {
+          "Name": "Toy Sword"
+        }
+      ]
+    },
+    {
+      "Level": 3,
+      "Name": "Domesticated Ogre",
+      "Health": 300,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 10
+      },
+      "Drops": [
+        {
+          "Name": "Adult Diapers"
+        }
+      ]
+    },
+    {
+      "Level": 3,
+      "Name": "Pumpkinhead",
+      "Health": 70,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 1
+      },
+      "Drops": [
+        {
+          "Name": "Pumpkin Mush"
+        }
+      ]
+    },
+    {
+      "Level": 3,
+      "Name": "Dwarf Skele",
+      "Health": 71,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 1
+      },
+      "Drops": [
+        {
+          "Name": "Bone Dust"
+        },
+        {
+          "Name": "Skele Doll"
+        },
+        {
+          "Name": "Woodsman's Hatchet"
+        }
+      ]
+    },
+    {
+      "Level": 4,
+      "Name": "Skele",
+      "Health": 90,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 1
+      },
+      "Drops": [
+        {
+          "Name": "Bone Dust"
+        },
+        {
+          "Name": "Skull"
+        }
+      ]
+    },
+    {
+      "Level": 5,
+      "Name": "Armed Skele",
+      "Health": 128,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 2
+      },
+      "Drops": [
+        {
+          "Name": "Bone Dust"
+        },
+        {
+          "Name": "Skull"
+        },
+        {
+          "Name": "Skele Doll"
+        },
+        {
+          "Name": "Buckler of Roundness"
+        }
+      ]
+    },
+    {
+      "Level": 6,
+      "Name": "Angry Skele",
+      "Health": 152,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 2
+      },
+      "Drops": [
+        {
+          "Name": "Bone Dust"
+        },
+        {
+          "Name": "Skull"
+        },
+        {
+          "Name": "Small Ring of Endurance"
+        }
+      ]
+    },
+    {
+      "Level": 7,
+      "Name": "Smallish Ogre",
+      "Health": 250,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 2
+      },
+      "Drops": [
+        {
+          "Name": "Woodsman's Axe"
+        }
+      ]
+    },
+    {
+      "Level": 7,
+      "Name": "Recruit Of Evil",
+      "Health": 140,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 3
+      },
+      "Drops": [
+        {
+          "Name": "Evil Army Enlistment Card"
+        },
+        {
+          "Name": "Training Sword"
+        },
+        {
+          "Name": "G.E.D"
+        }
+      ]
+    },
+    {
+      "Level": 7,
+      "Name": "Intern Of Evil",
+      "Health": 158,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 2
+      },
+      "Drops": [
+        {
+          "Name": "Evil Army Enlistment Card"
+        },
+        {
+          "Name": "Henching for Dummies"
+        }
+      ]
+    },
+    {
+      "Level": 7,
+      "Name": "Spicy Red Crab",
+      "Health": 140,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 3
+      },
+      "Drops": [
+        {
+          "Name": "Crab Claw"
+        },
+        {
+          "Name": "Spicy Crab Meat Chunk"
+        },
+        {
+          "Name": "Crab Helmet"
+        }
+      ]
+    },
+    {
+      "Level": 8,
+      "Name": "Giant Skele *",
+      "Health": 560,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 2
+      },
+      "Drops": [
+        {
+          "Name": "Bone Dust"
+        },
+        {
+          "Name": "Giant Skull"
+        },
+        {
+          "Name": "Skele Doll"
+        }
+      ]
+    },
+    {
+      "Level": 8,
+      "Name": "Evil Swordsman",
+      "Health": 170,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 3
+      },
+      "Drops": [
+        {
+          "Name": "Dull Wooden Sword"
+        },
+        {
+          "Name": "Class Ring"
+        }
+      ]
+    },
+    {
+      "Level": 8,
+      "Name": "Evil Guard",
+      "Health": 300,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 3
+      },
+      "Drops": [
+        {
+          "Name": "Shield of Cowardice"
+        },
+        {
+          "Name": "Henching for Dummies"
+        },
+        {
+          "Name": "Pants of Spandex"
+        }
+      ]
+    },
+    {
+      "Level": 8,
+      "Name": "Zombie Crab",
+      "Health": 600,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 1
+      },
+      "Drops": [
+        {
+          "Name": "Rusty Sword"
+        },
+        {
+          "Name": "Broken Bow"
+        }
+      ]
+    },
+    {
+      "Level": 8,
+      "Name": "Royal Purple Crab",
+      "Health": 280,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 7
+      },
+      "Drops": [
+        {
+          "Name": "Crab Claw"
+        },
+        {
+          "Name": "Royal Crab Jelly Clump"
+        }
+      ]
+    },
+    {
+      "Level": 9,
+      "Name": "Evil McBadguy *",
+      "Health": 380,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 19
+      },
+      "Drops": [
+        {
+          "Name": "Standard Sword"
+        },
+        {
+          "Name": "Man Ring"
+        },
+        {
+          "Name": "G.E.D"
+        }
+      ]
+    },
+    {
+      "Level": 9,
+      "Name": "Rock Crab",
+      "Health": 400,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 4
+      },
+      "Drops": [
+        {
+          "Name": "Crab Helmet"
+        },
+        {
+          "Name": "Crab Body Armor"
+        },
+        {
+          "Name": "Crab Leg Armor"
+        },
+        {
+          "Name": "Crab Claw"
+        }
+      ]
+    },
+    {
+      "Level": 9,
+      "Name": "Killer Tomato",
+      "Health": 250,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 3
+      },
+      "Drops": [
+        {
+          "Name": "Killed Tomato"
+        },
+        {
+          "Name": "Small Ring of Endurance"
+        },
+        {
+          "Name": "Pointy Stick"
+        }
+      ]
+    },
+    {
+      "Level": 9,
+      "Name": "Baby Dirt Spider",
+      "Health": 160,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 1
+      },
+      "Drops": [
+        {
+          "Name": "Spider Guts"
+        },
+        {
+          "Name": "Glowing Wand"
+        },
+        {
+          "Name": "Rusty Axe"
+        },
+        {
+          "Name": "Small Ring of Protection"
+        }
+      ]
+    },
+    {
+      "Level": 10,
+      "Name": "Yellow Slime",
+      "Health": 300,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 5
+      },
+      "Drops": [
+        {
+          "Name": "Slimy Sword"
+        },
+        {
+          "Name": "Steel Staff"
+        },
+        {
+          "Name": "Small Energy Potion"
+        },
+        {
+          "Name": "Glowing Wand"
+        }
+      ]
+    },
+    {
+      "Level": 11,
+      "Name": "King Crab *",
+      "Health": 600,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 1
+      },
+      "Drops": [
+        {
+          "Name": "Crab Helmet"
+        },
+        {
+          "Name": "Jumbo Crab Claw"
+        }
+      ]
+    },
+    {
+      "Level": 11,
+      "Name": "Failed Spider Hunter",
+      "Health": 260,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 4
+      },
+      "Drops": [
+        {
+          "Name": "Rusty Axe"
+        },
+        {
+          "Name": "Lockjaw"
+        },
+        {
+          "Name": "Man Ring"
+        }
+      ]
+    },
+    {
+      "Level": 11,
+      "Name": "Zombeet",
+      "Health": 500,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 3
+      },
+      "Drops": [
+        {
+          "Name": "The Centurion"
+        },
+        {
+          "Name": "Small Health Potion"
+        },
+        {
+          "Name": "Small Energy Potion"
+        }
+      ]
+    },
+    {
+      "Level": 11,
+      "Name": "Skelechop",
+      "Health": 290,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 4
+      },
+      "Drops": [
+        {
+          "Name": "Guardsman's Axe"
+        },
+        {
+          "Name": "Rusty Leg Armor"
+        }
+      ]
+    },
+    {
+      "Level": 11,
+      "Name": "Skeleblock",
+      "Health": 400,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 4
+      },
+      "Drops": [
+        {
+          "Name": "Rusty Body Armor"
+        },
+        {
+          "Name": "Round Wooden Shield"
+        }
+      ]
+    },
+    {
+      "Level": 12,
+      "Name": "Dirt Spider",
+      "Health": 500,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 5
+      },
+      "Drops": [
+        {
+          "Name": "Spider Guts"
+        },
+        {
+          "Name": "Quality Standard Bow"
+        },
+        {
+          "Name": "Quality Small Sword"
+        },
+        {
+          "Name": "Spider Bow"
+        }
+      ]
+    },
+    {
+      "Level": 12,
+      "Name": "Green Slime",
+      "Health": 400,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 4
+      },
+      "Drops": [
+        {
+          "Name": "Slimy Zombeet"
+        },
+        {
+          "Name": "Round Metal Shield"
+        },
+        {
+          "Name": "Standard Bow"
+        },
+        {
+          "Name": "Glowing Wand"
+        }
+      ]
+    },
+    {
+      "Level": 12,
+      "Name": "Skelestab",
+      "Health": 300,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 6
+      },
+      "Drops": [
+        {
+          "Name": "Rusty Sword"
+        },
+        {
+          "Name": "Johnny Rotten"
+        },
+        {
+          "Name": "Rusty Leg Armor"
+        },
+        {
+          "Name": "Rust Never Sleeps (Legs)"
+        }
+      ]
+    },
+    {
+      "Level": 13,
+      "Name": "Skeleguard",
+      "Health": 400,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 6
+      },
+      "Drops": [
+        {
+          "Name": "Crusader Shield"
+        },
+        {
+          "Name": "Skeleguard Skull"
+        },
+        {
+          "Name": "Rusty Body Armor"
+        },
+        {
+          "Name": "Rust Never Sleeps (Body)"
+        }
+      ]
+    },
+    {
+      "Level": 14,
+      "Name": "Skele Elite",
+      "Health": 400,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 9
+      },
+      "Drops": [
+        {
+          "Name": "Bash Shield"
+        },
+        {
+          "Name": "Quality Metal Shield"
+        },
+        {
+          "Name": "Long Metal Sword"
+        },
+        {
+          "Name": "Blue Steel"
+        }
+      ]
+    },
+    {
+      "Level": 14,
+      "Name": "Lucky Skull Spider *",
+      "Health": 1000,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 2,
+        "Max": 19
+      },
+      "Drops": [
+        {
+          "Name": "Lucky 8 Skull"
+        },
+        {
+          "Name": "Long Sword"
+        }
+      ]
+    },
+    {
+      "Level": 16,
+      "Name": "Skele Champion *",
+      "Health": 1500,
+      "IsBoss": false,
+      "Gold": {
+        "Min": 1,
+        "Max": 29
+      },
+      "Drops": [
+        {
+          "Name": "Brutal Axe"
+        },
+        {
+          "Name": "Steel Staff"
+        },
+        {
+          "Name": "Small Health Potion"
+        }
+      ]
+    }
+  ]

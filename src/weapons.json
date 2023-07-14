@@ -1,0 +1,269 @@
+[
+    {
+        "Id": 1,
+        "Name": "Pointy Stick",
+        "Type": "Melee",
+        "Description": "",
+        "Minimum Damage": 7,
+        "Maximum Damage": 9,
+        "Sell": 1,
+        "Drops By": ["Killer_Tomato"]
+    },
+    {
+        "Id": 2,
+        "Name": "Toy Bow",
+        "Type": "Ranged",
+        "Description": "The section cups have been removed from the ends of the arrows for extra damage.",
+        "Minimum Damage": 9,
+        "Maximum Damage": 12,
+        "Sell": 25,
+        "Drops By": ["Soft_Shelled_Crab"]
+    },
+    {
+        "Id": 3,
+        "Name": "Toy Sword",
+        "Type": "Ranged",
+        "Description": "",
+        "Minimum Damage": 8,
+        "Maximum Damage": 10,
+        "Sell": 25,
+        "Drops By": ["Turniphead"]
+    },
+    {
+        "Id": 4,
+        "Name": "Dull Wooden Sword",
+        "Type": "Melee",
+        "Description": "",
+        "Minimum Damage": 10,
+        "Maximum Damage": 18,
+        "Sell": 25
+    },
+    {
+        "Id": 5,
+        "Name": "Small Basic Bow",
+        "Type": "Ranged",
+        "Description": "",
+        "Minimum Damage": 10,
+        "Maximum Damage": 20,
+        "Sell": 25
+    },
+    {
+        "Id": 6,
+        "Name": "Magic Stick",
+        "Type": "Ranged",
+        "Description": "",
+        "Minimum Damage": 8,
+        "Maximum Damage": 10,
+        "Sell": 25
+    },
+    {
+        "Id": 7,
+        "Name": "Woodsman's Hatchet",
+        "Type": "Melee",
+        "Description": "",
+        "Minimum Damage": 13,
+        "Maximum Damage": 29,
+        "Sell": 25,
+        "Drops By": ["Dwarf_Skele"]
+    },
+    {
+        "Id": 8,
+        "Name": "Woodsman's Axe",
+        "Type": "Melee",
+        "Description": "",
+        "Minimum Damage": 14,
+        "Maximum Damage": 34,
+        "Sell": 125,
+        "Drops By": ["Smallish_Orge"]
+    },
+    {
+        "Id": 9,
+        "Name": "Training Sword",
+        "Type": "Melee",
+        "Description": "",
+        "Minimum Damage": 13,
+        "Maximum Damage": 15,
+        "Sell": 25,
+        "Drops By": ["Recuit_Of_Evil"]
+    },
+    {
+        "Id": 10,
+        "Name": "Dull Wooden Sword",
+        "Type": "Melee",
+        "Description": "",
+        "Minimum Damage": 10,
+        "Maximum Damage": 18,
+        "Sell": 25,
+        "Drops By": ["Evil_Swordsman"]
+    },
+    {
+        "Id": 11,
+        "Name": "Standard Sword",
+        "Type": "Melee",
+        "Description": "",
+        "Minimum Damage": 18,
+        "Maximum Damage": 28,
+        "Sell": 125,
+        "Drops By": ["Evil_Mcbadguy"]
+    },
+    {
+        "Id": 12,
+        "Name": "Rusty Sword",
+        "Type": "Melee",
+        "Description": "",
+        "Minimum Damage": 17,
+        "Maximum Damage": 38,
+        "Sell": 60,
+        "Drops By": ["Zombie_Crab", "Skelestab"]
+    },
+    {
+        "Id": 13,
+        "Name": "Broken Bow",
+        "Type": "Range",
+        "Description": "",
+        "Minimum Damage": 14,
+        "Maximum Damage": 22,
+        "Sell": 100,
+        "Drops By": ["Zombie_Crab"]
+    },
+    {
+        "Id": 14,
+        "Name": "Glowing Wand",
+        "Type": "Range",
+        "Description": "",
+        "Minimum Damage": 16,
+        "Maximum Damage": 19,
+        "Sell": 70,
+        "Drops By": ["Baby_Dirt_Spider", "Yellow_Slime", "Green_Slime"]
+    },
+    {
+        "Id": 15,
+        "Name": "Rusty Axe",
+        "Type": "Melee",
+        "Description": "",
+        "Minimum Damage": 17,
+        "Maximum Damage": 38,
+        "Sell": 50,
+        "Drops By": ["Baby_Dirt_Spider, Failed_Spider_Hunter"]
+    },
+    {
+        "Id": 16,
+        "Name": "Steel Staff",
+        "Type": "Melee",
+        "Description": "",
+        "Minimum Damage": 25,
+        "Maximum Damage": 29,
+        "Sell": 200,
+        "Drops By": ["Yellow_Slime", "Skele_Champion"]
+    },
+    {
+        "Id": 17,
+        "Name": "Lockjaw",
+        "Type": "Melee",
+        "Description": "",
+        "Minimum Damage": 24,
+        "Maximum Damage": 44,
+        "Sell": 100,
+        "Drops By": ["Failed_Spider_Hunter"]
+    },
+    {
+        "Id": 18,
+        "Name": "Quality Standard Bow",
+        "Type": "Range",
+        "Description": "",
+        "Minimum Damage": 24,
+        "Maximum Damage": 28,
+        "Sell": 200,
+        "Drops By": ["Dirt_Spider"]
+    },
+    {
+        "Id": 19,
+        "Name": "Quality Small Sword",
+        "Type": "Melee",
+        "Description": "",
+        "Minimum Damage": 25,
+        "Maximum Damage": 29,
+        "Sell": 150,
+        "Drops By": ["Dirt_Spider"]
+    },
+    {
+        "Id": 20,
+        "Name": "Spider Bow",
+        "Type": "Range",
+        "Description": "",
+        "Minimum Damage": 26,
+        "Maximum Damage": 33,
+        "Sell": 200,
+        "Drops By": ["Dirt_Spider"]
+    },
+    {
+        "Id": 21,
+        "Name": "Long Sword",
+        "Type": "Melee",
+        "Description": "",
+        "Minimum Damage": 22,
+        "Maximum Damage": 30,
+        "Sell": 140,
+        "Drops By": ["Lucky_Skull_Spider"]
+    },
+    {
+        "Id": 22,
+        "Name": "Guardsman's Axe",
+        "Type": "Melee",
+        "Description": "",
+        "Minimum Damage": 19,
+        "Maximum Damage": 44,
+        "Sell": 125,
+        "Drops By": ["Skelechop"]
+    },
+    {
+        "Id": 23,
+        "Name": "Standard Bow",
+        "Type": "Range",
+        "Description": "",
+        "Minimum Damage": 20,
+        "Maximum Damage": 28,
+        "Sell": 100,
+        "Drops By": ["Green_Slime"]
+    },
+    {
+        "Id": 24,
+        "Name": "Johnny Rotten",
+        "Type": "Melee",
+        "Description": "",
+        "Minimum Damage": 24,
+        "Maximum Damage": 30,
+        "Sell": 300,
+        "Drops By": ["Skelestab"]
+    },
+    {
+        "Id": 25,
+        "Name": "Long Metal Sword",
+        "Type": "Melee",
+        "Description": "",
+        "Minimum Damage": 24,
+        "Maximum Damage": 34,
+        "Sell": 220,
+        "Drops By": ["Skele_Elite"]
+    },
+    {
+        "Id": 26,
+        "Name": "Blue Steel",
+        "Type": "Melee",
+        "Description": "",
+        "Minimum Damage": 28,
+        "Maximum Damage": 38,
+        "Sell": 220,
+        "Drops By": ["Skele_Elite"]
+    },
+    {
+        "Id": 27,
+        "Name": "Brutal Axe",
+        "Type": "Melee",
+        "Description": "",
+        "Minimum Damage": 23,
+        "Maximum Damage": 58,
+        "Sell": 150,
+        "Drops By": ["Skele_Champion"]
+    }
+]

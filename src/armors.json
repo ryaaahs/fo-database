@@ -1,0 +1,128 @@
+[
+    {
+        "Id": 1,
+        "Name": "Adult Diapers",
+        "Slot": "Legs",
+        "Sell": 5
+    },
+    {
+        "Id": 2,
+        "Name": "Crab Helmet",
+        "Slot": "Head",
+        "Sell,": 5
+    },
+    {
+        "Id": 3,
+        "Name": "Barrel Lid",
+        "Slot": "Shield",
+        "Sell": 25
+    },
+    {
+        "Id": 4,
+        "Name": "Rusty Leg Armor",
+        "Slot": "Legs",
+        "Sell,": 30
+    },
+    {
+        "Id": 5,
+        "Name": "Crab Leg Armor",
+        "Slot": "Legs",
+        "Sel,": 35
+    },
+    {
+        "Id": 6,
+        "Name": "Pointy Helmet",
+        "Slot": "Head",
+        "Sell": 40
+    },
+    {
+        "Id": 7,
+        "Name": "Filthy Pants",
+        "Slot": "Head",
+        "Sell": 40
+    },
+    {
+        "Id": 8,
+        "Name": "Buckler of Roundness",
+        "Slot": "Sheild",
+        "Sell": 40
+    },
+    {
+        "Id": 9,
+        "Name": "Crab Body Armor",
+        "Slot": "Body",
+        "Sell,": 50
+    },
+    {
+        "Id": 10,
+        "Name": "Shield of Cowardice",
+        "Slot": "Shield",
+        "Sell": 50
+    },
+    {
+        "Id": 11,
+        "Name": "Rusty Body Armor",
+        "Slot": "Body",
+        "Sell,": 60
+    },
+    {
+        "Id": 12,
+        "Name": "Round Wooden Shield",
+        "Slot": "Shield",
+        "Sell": 70
+    },
+    {
+        "Id": 13,
+        "Name": "Pants of Spandex",
+        "Slot": "Legs",
+        "Sell": 75
+    },
+    {
+        "Id": 14,
+        "Name": "Round Metal Shield",
+        "Slot": "Shield",
+        "Sell": 95
+    },
+    {
+        "Id": 15,
+        "Name": "Wanderer's Cloak",
+        "Slot": "Body",
+        "Sell": 100
+    },
+    {
+        "Id": 16,
+        "Name": "Bash Shield",
+        "Slot": "Shield",
+        "Sell": 150
+    },
+    {
+        "Id": 17,
+        "Name": "Rust Never Sleeps",
+        "Slot": "Legs",
+        "Sell": 190
+    },
+    {
+        "Id": 18,
+        "Name": "Rust Never Sleeps",
+        "Slot": "Body",
+        "Sell": 200
+    },
+    {
+        "Id": 19,
+        "Name": "The Crusader",
+        "Slot": "Shield",
+        "Sell": 230
+    },
+    {
+        "Id": 20,
+        "Name": "The Centurion",
+        "Slot": "Shield",
+        "Sell": 250
+    },
+    {
+        "Id": 21,
+        "Name": "Quality Metal Shield",
+        "Slot": "Shield",
+        "Sell": 350
+    }
+]
