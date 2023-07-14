@@ -1,6 +1,6 @@
-import Content from "../Components/Content";
+import Content from "../../Components/Content";
 import { Link, useNavigate } from "react-router-dom";
-import { linkName } from "../utils";
+import { linkName } from "../../utils";
 
 
 
@@ -19,7 +19,7 @@ function Items_Page_Content() {
 
     const itemTypesList = item_types.map(item => 
         <div className="w-max my-2" key={ item.id }>
-            <Link  onClick={ () => navigate(linkName("Home")) } to={ navigate(linkName("Home")) }>    
+            <Link onClick={ () => navigate(linkName("Home")) } to={ linkName("Home") }>    
                 <span className="text-sky-500 underline" ><h3>{ item.name }</h3></span>
             </Link> 
         </div>

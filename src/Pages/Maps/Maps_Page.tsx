@@ -1,0 +1,14 @@
+import Page from "../../Components/Page";
+import Maps_Page_Content from "./Maps_Page_Content"
+import { useTitle } from "../../utils"
+
+function Maps() {
+  useTitle("FO2-Database - Maps");
+  return (
+    <>
+      <Page content={< Maps_Page_Content />}/>
+    </>
+  )
+}
+
+export default Maps

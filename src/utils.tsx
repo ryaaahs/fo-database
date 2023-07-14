@@ -1,3 +1,5 @@
+import { useEffect } from "react";
+
 function convertToPathway ( value:String ){ 
     return value.replace(/\ /g, "_");
 }
@@ -15,4 +17,14 @@ function linkName (value: string) {
     return "/" + value;
 }
 
-export { convertToPathway, delay, linkName }
+function useTitle(title:string) {
+    useEffect(() => {
+      const prevTitle = document.title
+      document.title = title;
+      return () => {
+        document.title = prevTitle
+      }
+    })
+  }
+
+export { convertToPathway, delay, linkName, useTitle }
