@@ -1,7 +1,50 @@
 [
     {
+        "Id": 1,
         "Name": "Tiny Crab Claw",
         "Description": "Needs melted butter. Also needs to be cooked. Eat this for instant 10 health",
-        "Type": "Consumable"
+        "Sell": 2,
+        "Drops By": ["Soft_Shelled_Crab"],
+        "Sold By": []
+    },
+    {
+        "Id": 2,
+        "Name": "Crab Claw",
+        "Description": "WIP",
+        "Sell": 5,
+        "Drops By": ["Spicy_Red_Crab", "Royal_Purple_Crab", "Rock_Crab"],
+        "Sold By": []
+    },
+    {
+        "Id": 3,
+        "Name": "Pumpkin Mush",
+        "Description": "WIP",
+        "Sell": 10,
+        "Drops By": ["Pumpkinhead"],
+        "Sold By": []
+    },
+    {
+        "Id": 4,
+        "Name": "Small Health Potion",
+        "Description": "WIP",
+        "Sell": 10,
+        "Drops By": ["Zombeet", "Skele_Champion"],
+        "Sold By": ["Sals_Wears", "Trainer_Remos_Skill_Books"]
+    },
+    {
+        "Id": 5,
+        "Name": "Small Energy Potion",
+        "Description": "WIP",
+        "Sell": 10,
+        "Drops By": ["Yellow_Slime", "Zombeet"],
+        "Sold By": ["Sals_Wears", "Trainer_Remos_Skill_Books"]
+    },
+    {
+        "Id": 6,
+        "Name": "Jumbo Crab Claw",
+        "Description": "WIP",
+        "Sell": 30,
+        "Drops By": ["King_Crab"],
+        "Sold By": []
     }
 ]

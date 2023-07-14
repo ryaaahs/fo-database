@@ -13,7 +13,7 @@
         "Slot": "Head",
         "Sell": 40,
         "Drops by": [],
-        "Sold By": ["Sal's Wears"]
+        "Sold By": ["Sals_Wears"]
     },
     {
         "Id": 3,
@@ -21,7 +21,7 @@
         "Slot": "Body",
         "Sell": 100,
         "Drops by": [],
-        "Sold By": ["Sal's Wears"]
+        "Sold By": ["Sals_Wears"]
     },
     {
         "Id": 4,
@@ -29,7 +29,7 @@
         "Slot": "Head",
         "Sell": 40,
         "Drops by": [],
-        "Sold By": ["Sal's Wears"]
+        "Sold By": ["Sals_Wears"]
     },
     {
         "Id": 5,

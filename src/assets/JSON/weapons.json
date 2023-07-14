@@ -41,7 +41,7 @@
         "Maximum Damage": 18,
         "Sell": 25,
         "Drops By": [],
-        "Sold By": ["Sal's Wears"]
+        "Sold By": ["Sals_Wears"]
     },
     {
         "Id": 5,
@@ -52,7 +52,7 @@
         "Maximum Damage": 20,
         "Sell": 25,
         "Drops By": [],
-        "Sold By": ["Sal's Wears"]
+        "Sold By": ["Sals_Wears"]
     },
     {
         "Id": 6,
@@ -63,7 +63,7 @@
         "Maximum Damage": 10,
         "Sell": 25,
         "Drops By": [],
-        "Sold By": ["Sal's Wears"]
+        "Sold By": ["Sals_Wears"]
     },
     {
         "Id": 7,
