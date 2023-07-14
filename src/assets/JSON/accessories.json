@@ -2,7 +2,36 @@
     {
         "Id": 1,
         "Name": "Class Ring",
-        "Slot": "Ring",
-        "Sell": 5
+        "Sell": 25,
+        "Drops by": ["Soft_Shelled_Crab", "Evil_Swordsman"],
+        "Sold By": []
+    },
+    {
+        "Id": 2,
+        "Name": "Small Ring of Endurance",
+        "Sell": 50,
+        "Drops by": ["Angry_Skele", "Killer_Tomato"],
+        "Sold By": []
+    },
+    {
+        "Id": 3,
+        "Name": "G.E.D",
+        "Sell": 25,
+        "Drops by": ["Recruit_Of_Evil", "Evil_McBadGuy"],
+        "Sold By": []
+    },
+    {
+        "Id": 4,
+        "Name": "Man Ring",
+        "Sell": 75,
+        "Drops by": ["Evil_McBadGuy", "Failed_Spider_Hunter"],
+        "Sold By": []
+    },
+    {
+        "Id": 5,
+        "Name": "Small Ring of Protection",
+        "Sell": 75,
+        "Drops by": ["Baby Dirt Spider"],
+        "Sold By": []
     }
 ]
