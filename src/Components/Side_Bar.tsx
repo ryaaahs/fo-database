@@ -8,7 +8,6 @@ const section_two_items = [
     {id: 1, name: "Maps"},
     {id: 2, name: "Enemies"},
     {id: 3, name: "Items"},
-    
 ]
 
 const itemSectionOneList = section_one_items.map(item => <Side_Bar_Item key={item.id} name={item.name}/>)

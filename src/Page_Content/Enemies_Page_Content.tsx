@@ -15,25 +15,23 @@ const enemyCards = Enemies.map(item =>
 function Enemies_Page_Content() {
   return (
     <>
-        <div className="ml-4 mt-2 flex flex-col overflow-x-hidden overflow-y-scroll w-full">
-            <Content 
-                title={"Enemies"}
-                description={<p>
-                In the FO2 Alpha, you'll encounter two distinct enemies types: Normal and <b>Bosses</b>. 
-                Beware, as Bosses possess greater strenght than Normal enemies.
-                </p>}
-                
-            />
-            <div className="ml-2 grid grid-row-6 grid-cols-6">
-                { enemyCards }
+        <div className="w-full overflow-y-scroll">
+            <div className="ml-4 mt-2 flex flex-col overflow-x-hidden w-3/5">
+                <Content 
+                    title={"Enemies"}
+                    description={<p>
+                    You'll encounter two distinct enemies types: Normal and <b>Bosses</b>. 
+                    Beware, as Bosses possess greater strenght than Normal enemies.
+                    </p>}
+                    
+                />
+                <div className="ml-2 grid grid-row-6 grid-cols-4">
+                    { enemyCards }
+                </div>
             </div>
         </div>
-        
-        
     </>
   )
 }
 
 export default Enemies_Page_Content
-// `In the FO2 Alpha, you'll encounter two distinct enemies types: Normal and <b>Bosses</b>. 
-//             Beware, as Bosses possess greater strenght than normal enemies.`
