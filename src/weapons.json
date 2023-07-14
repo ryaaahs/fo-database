@@ -7,7 +7,8 @@
         "Minimum Damage": 7,
         "Maximum Damage": 9,
         "Sell": 1,
-        "Drops By": ["Killer_Tomato"]
+        "Drops By": ["Killer_Tomato"],
+        "Sold By": []
     },
     {
         "Id": 2,
@@ -17,7 +18,8 @@
         "Minimum Damage": 9,
         "Maximum Damage": 12,
         "Sell": 25,
-        "Drops By": ["Soft_Shelled_Crab"]
+        "Drops By": ["Soft_Shelled_Crab"],
+        "Sold By": []
     },
     {
         "Id": 3,
@@ -27,7 +29,8 @@
         "Minimum Damage": 8,
         "Maximum Damage": 10,
         "Sell": 25,
-        "Drops By": ["Turniphead"]
+        "Drops By": ["Turniphead"],
+        "Sold By": []
     },
     {
         "Id": 4,
@@ -36,7 +39,9 @@
         "Description": "",
         "Minimum Damage": 10,
         "Maximum Damage": 18,
-        "Sell": 25
+        "Sell": 25,
+        "Drops By": [],
+        "Sold By": ["Sal's Wears"]
     },
     {
         "Id": 5,
@@ -45,7 +50,9 @@
         "Description": "",
         "Minimum Damage": 10,
         "Maximum Damage": 20,
-        "Sell": 25
+        "Sell": 25,
+        "Drops By": [],
+        "Sold By": ["Sal's Wears"]
     },
     {
         "Id": 6,
@@ -54,7 +61,9 @@
         "Description": "",
         "Minimum Damage": 8,
         "Maximum Damage": 10,
-        "Sell": 25
+        "Sell": 25,
+        "Drops By": [],
+        "Sold By": ["Sal's Wears"]
     },
     {
         "Id": 7,
@@ -64,7 +73,8 @@
         "Minimum Damage": 13,
         "Maximum Damage": 29,
         "Sell": 25,
-        "Drops By": ["Dwarf_Skele"]
+        "Drops By": ["Dwarf_Skele"],
+        "Sold By": []
     },
     {
         "Id": 8,
@@ -74,7 +84,8 @@
         "Minimum Damage": 14,
         "Maximum Damage": 34,
         "Sell": 125,
-        "Drops By": ["Smallish_Orge"]
+        "Drops By": ["Smallish_Orge"],
+        "Sold By": []
     },
     {
         "Id": 9,
@@ -84,7 +95,8 @@
         "Minimum Damage": 13,
         "Maximum Damage": 15,
         "Sell": 25,
-        "Drops By": ["Recuit_Of_Evil"]
+        "Drops By": ["Recuit_Of_Evil"],
+        "Sold By": []
     },
     {
         "Id": 10,
@@ -94,7 +106,8 @@
         "Minimum Damage": 10,
         "Maximum Damage": 18,
         "Sell": 25,
-        "Drops By": ["Evil_Swordsman"]
+        "Drops By": ["Evil_Swordsman"],
+        "Sold By": []
     },
     {
         "Id": 11,
@@ -104,7 +117,8 @@
         "Minimum Damage": 18,
         "Maximum Damage": 28,
         "Sell": 125,
-        "Drops By": ["Evil_Mcbadguy"]
+        "Drops By": ["Evil_Mcbadguy"],
+        "Sold By": []
     },
     {
         "Id": 12,
@@ -114,7 +128,8 @@
         "Minimum Damage": 17,
         "Maximum Damage": 38,
         "Sell": 60,
-        "Drops By": ["Zombie_Crab", "Skelestab"]
+        "Drops By": ["Zombie_Crab", "Skelestab"],
+        "Sold By": []
     },
     {
         "Id": 13,
@@ -124,7 +139,8 @@
         "Minimum Damage": 14,
         "Maximum Damage": 22,
         "Sell": 100,
-        "Drops By": ["Zombie_Crab"]
+        "Drops By": ["Zombie_Crab"],
+        "Sold By": []
     },
     {
         "Id": 14,
@@ -134,7 +150,8 @@
         "Minimum Damage": 16,
         "Maximum Damage": 19,
         "Sell": 70,
-        "Drops By": ["Baby_Dirt_Spider", "Yellow_Slime", "Green_Slime"]
+        "Drops By": ["Baby_Dirt_Spider", "Yellow_Slime", "Green_Slime"],
+        "Sold By": []
     },
     {
         "Id": 15,
@@ -144,7 +161,8 @@
         "Minimum Damage": 17,
         "Maximum Damage": 38,
         "Sell": 50,
-        "Drops By": ["Baby_Dirt_Spider, Failed_Spider_Hunter"]
+        "Drops By": ["Baby_Dirt_Spider, Failed_Spider_Hunter"],
+        "Sold By": []
     },
     {
         "Id": 16,
@@ -154,7 +172,8 @@
         "Minimum Damage": 25,
         "Maximum Damage": 29,
         "Sell": 200,
-        "Drops By": ["Yellow_Slime", "Skele_Champion"]
+        "Drops By": ["Yellow_Slime", "Skele_Champion"],
+        "Sold By": []
     },
     {
         "Id": 17,
@@ -164,7 +183,8 @@
         "Minimum Damage": 24,
         "Maximum Damage": 44,
         "Sell": 100,
-        "Drops By": ["Failed_Spider_Hunter"]
+        "Drops By": ["Failed_Spider_Hunter"],
+        "Sold By": []
     },
     {
         "Id": 18,
@@ -174,7 +194,8 @@
         "Minimum Damage": 24,
         "Maximum Damage": 28,
         "Sell": 200,
-        "Drops By": ["Dirt_Spider"]
+        "Drops By": ["Dirt_Spider"],
+        "Sold By": []
     },
     {
         "Id": 19,
@@ -184,7 +205,8 @@
         "Minimum Damage": 25,
         "Maximum Damage": 29,
         "Sell": 150,
-        "Drops By": ["Dirt_Spider"]
+        "Drops By": ["Dirt_Spider"],
+        "Sold By": []
     },
     {
         "Id": 20,
@@ -194,7 +216,8 @@
         "Minimum Damage": 26,
         "Maximum Damage": 33,
         "Sell": 200,
-        "Drops By": ["Dirt_Spider"]
+        "Drops By": ["Dirt_Spider"],
+        "Sold By": []
     },
     {
         "Id": 21,
@@ -204,7 +227,8 @@
         "Minimum Damage": 22,
         "Maximum Damage": 30,
         "Sell": 140,
-        "Drops By": ["Lucky_Skull_Spider"]
+        "Drops By": ["Lucky_Skull_Spider"],
+        "Sold By": []
     },
     {
         "Id": 22,
@@ -214,7 +238,8 @@
         "Minimum Damage": 19,
         "Maximum Damage": 44,
         "Sell": 125,
-        "Drops By": ["Skelechop"]
+        "Drops By": ["Skelechop"],
+        "Sold By": []
     },
     {
         "Id": 23,
@@ -224,7 +249,8 @@
         "Minimum Damage": 20,
         "Maximum Damage": 28,
         "Sell": 100,
-        "Drops By": ["Green_Slime"]
+        "Drops By": ["Green_Slime"],
+        "Sold By": []
     },
     {
         "Id": 24,
@@ -234,7 +260,8 @@
         "Minimum Damage": 24,
         "Maximum Damage": 30,
         "Sell": 300,
-        "Drops By": ["Skelestab"]
+        "Drops By": ["Skelestab"],
+        "Sold By": []
     },
     {
         "Id": 25,
@@ -244,7 +271,8 @@
         "Minimum Damage": 24,
         "Maximum Damage": 34,
         "Sell": 220,
-        "Drops By": ["Skele_Elite"]
+        "Drops By": ["Skele_Elite"],
+        "Sold By": []
     },
     {
         "Id": 26,
@@ -254,7 +282,8 @@
         "Minimum Damage": 28,
         "Maximum Damage": 38,
         "Sell": 220,
-        "Drops By": ["Skele_Elite"]
+        "Drops By": ["Skele_Elite"],
+        "Sold By": []
     },
     {
         "Id": 27,
@@ -264,6 +293,7 @@
         "Minimum Damage": 23,
         "Maximum Damage": 58,
         "Sell": 150,
-        "Drops By": ["Skele_Champion"]
+        "Drops By": ["Skele_Champion"],
+        "Sold By": []
     }
 ]
