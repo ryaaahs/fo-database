@@ -6,12 +6,13 @@ const section_one_items = [
 
 const section_two_items = [
     {id: 1, name: "Maps"},
-    {id: 2, name: "Items"},
-    {id: 3, name: "Enemies"},
+    {id: 2, name: "Enemies"},
+    {id: 3, name: "Items"},
+    
 ]
 
-const itemSectionOneList = section_one_items.map(item => <Side_Bar_Item name={item.name}/>)
-const itemSectionTwoList = section_two_items.map(item => <Side_Bar_Item name={item.name}/>)
+const itemSectionOneList = section_one_items.map(item => <Side_Bar_Item key={item.id} name={item.name}/>)
+const itemSectionTwoList = section_two_items.map(item => <Side_Bar_Item key={item.id} name={item.name}/>)
 
 function Side_Bar() {
     return (

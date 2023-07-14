@@ -10,11 +10,10 @@ function Page({ content }:PageInterface) {
       <>
         <div className="flex flex-col h-full">
             <Header title="FO2-Database" placeholder="Search..."/>
-            <div className="flex h-full flex-row">
+            <div className="flex h-full  overflow-y-auto">
               <Side_Bar /> 
               { content }
             </div>
-            
         </div>
       </>
     )

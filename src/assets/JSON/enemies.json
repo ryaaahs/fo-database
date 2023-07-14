@@ -1,5 +1,6 @@
 [
     {
+      "Id": 1,
       "Level": 1,
       "Name": "Scarecrab",
       "Health": 30,
@@ -8,9 +9,11 @@
         "Min": 1,
         "Max": 2
       },
-      "Drops": []
+      "Drops": [],
+      "Location": "Noob Island"
     },
     {
+      "Id": 2,
       "Level": 1,
       "Name": "Soft Shelled Crab",
       "Health": 20,
@@ -24,9 +27,11 @@
         "Tiny Crab Claw",
         "Class Ring",
         "Toy Bow"
-      ]
+      ],
+      "Location": "Noob Island"
     },
     {
+      "Id": 3,
       "Level": 2,
       "Name": "Turniphead",
       "Health": 36,
@@ -38,9 +43,11 @@
       "Drops": [
         "Turnip",
         "Toy Sword"
-      ]
+      ],
+      "Location": "Noob Island"
     },
     {
+      "Id": 4,
       "Level": 3,
       "Name": "Domesticated Ogre",
       "Health": 300,
@@ -51,9 +58,11 @@
       },
       "Drops": [
         "Adult Diapers"
-      ]
+      ],
+      "Location": "Noob Island"
     },
     {
+      "Id": 5,
       "Level": 3,
       "Name": "Pumpkinhead",
       "Health": 70,
@@ -64,9 +73,11 @@
       },
       "Drops": [
         "Pumpkin Mush"
-      ]
+      ],
+      "Location": "Noob Island"
     },
     {
+      "Id": 6,
       "Level": 3,
       "Name": "Dwarf Skele",
       "Health": 71,
@@ -79,9 +90,11 @@
         "Bone Dust",
         "Skele Doll",
         "Woodsman's Hatchet"
-      ]
+      ],
+      "Location": "Noob Island"
     },
     {
+      "Id": 7,
       "Level": 4,
       "Name": "Skele",
       "Health": 90,
@@ -93,9 +106,11 @@
       "Drops": [
         "Bone Dust",
         "Skull"
-      ]
+      ],
+      "Location": "Noob Island"
     },
     {
+      "Id": 8,
       "Level": 5,
       "Name": "Armed Skele",
       "Health": 128,
@@ -109,9 +124,11 @@
         "Skull",
         "Skele Doll",
         "Buckler of Roundness"
-      ]
+      ],
+      "Location": "Noob Island"
     },
     {
+      "Id": 9,
       "Level": 6,
       "Name": "Angry Skele",
       "Health": 152,
@@ -124,9 +141,11 @@
         "Bone Dust",
         "Skull",
         "Small Ring of Endurance"
-      ]
+      ],
+      "Location": "Noob Island"
     },
     {
+      "Id": 10,
       "Level": 7,
       "Name": "Smallish Ogre",
       "Health": 250,
@@ -137,9 +156,11 @@
       },
       "Drops": [
         "Woodsman's Axe"
-      ]
+      ],
+      "Location": "Noob Island"
     },
     {
+      "Id": 11,
       "Level": 7,
       "Name": "Recruit Of Evil",
       "Health": 140,
@@ -152,9 +173,11 @@
         "Evil Army Enlistment Card",
         "Training Sword",
         "G.E.D"
-      ]
+      ],
+      "Location": "Noob Island"
     },
     {
+      "Id": 12,
       "Level": 7,
       "Name": "Intern Of Evil",
       "Health": 158,
@@ -166,9 +189,11 @@
       "Drops": [
         "Evil Army Enlistment Card",
         "Henching for Dummies"
-      ]
+      ],
+      "Location": "Noob Island"
     },
     {
+      "Id": 13,
       "Level": 7,
       "Name": "Spicy Red Crab",
       "Health": 140,
@@ -181,13 +206,15 @@
         "Crab Claw",
         "Spicy Crab Meat Chunk",
         "Crab Helmet"
-      ]
+      ],
+      "Location": "Crab Coast"
     },
     {
+      "Id": 14,
       "Level": 8,
-      "Name": "Giant Skele *",
+      "Name": "Giant Skele",
       "Health": 560,
-      "IsBoss": false,
+      "IsBoss": true,
       "Gold": {
         "Min": 1,
         "Max": 2
@@ -196,9 +223,11 @@
         "Bone Dust",
         "Giant Skull",
         "Skele Doll"
-      ]
+      ],
+      "Location": "Noob Island"
     },
     {
+      "Id": 15,
       "Level": 8,
       "Name": "Evil Swordsman",
       "Health": 170,
@@ -210,9 +239,11 @@
       "Drops": [
         "Dull Wooden Sword",
         "Class Ring"
-      ]
+      ],
+      "Location": "Noob Island"
     },
     {
+      "Id": 16,
       "Level": 8,
       "Name": "Evil Guard",
       "Health": 300,
@@ -225,9 +256,11 @@
         "Shield of Cowardice",
         "Henching for Dummies",
         "Pants of Spandex"
-      ]
+      ],
+      "Location": "Noob Island"
     },
     {
+      "Id": 17,
       "Level": 8,
       "Name": "Zombie Crab",
       "Health": 600,
@@ -239,9 +272,11 @@
       "Drops": [
         "Rusty Sword",
         "Broken Bow"
-      ]
+      ],
+      "Location": "Crab Coast"
     },
     {
+      "Id": 18,
       "Level": 8,
       "Name": "Royal Purple Crab",
       "Health": 280,
@@ -253,13 +288,15 @@
       "Drops": [
         "Crab Claw",
         "Royal Crab Jelly Clump"
-      ]
+      ],
+      "Location": "Crab Coast"
     },
     {
+      "Id": 19,
       "Level": 9,
-      "Name": "Evil McBadguy *",
+      "Name": "Evil McBadguy",
       "Health": 380,
-      "IsBoss": false,
+      "IsBoss": true,
       "Gold": {
         "Min": 1,
         "Max": 19
@@ -268,9 +305,11 @@
         "Standard Sword",
         "Man Ring",
         "G.E.D"
-      ]
+      ],
+      "Location": "Noob Island"
     },
     {
+      "Id": 20,
       "Level": 9,
       "Name": "Rock Crab",
       "Health": 400,
@@ -284,9 +323,11 @@
         "Crab Body Armor",
         "Crab Leg Armor",
         "Crab Claw"
-      ]
+      ],
+      "Location": "Crab Coast"
     },
     {
+      "Id": 21,
       "Level": 9,
       "Name": "Killer Tomato",
       "Health": 250,
@@ -299,9 +340,11 @@
         "Killed Tomato",
         "Small Ring of Endurance",
         "Pointy Stick"
-      ]
+      ],
+      "Location": "Crab Coast"
     },
     {
+      "Id": 22,
       "Level": 9,
       "Name": "Baby Dirt Spider",
       "Health": 160,
@@ -315,9 +358,11 @@
         "Glowing Wand",
         "Rusty Axe",
         "Small Ring of Protection"
-      ]
+      ],
+      "Location": "Crab Coast"
     },
     {
+      "Id": 23,
       "Level": 10,
       "Name": "Yellow Slime",
       "Health": 300,
@@ -331,13 +376,15 @@
         "Steel Staff",
         "Small Energy Potion",
         "Glowing Wand"
-      ]
+      ],
+      "Location": "Crab Coast"
     },
     {
+      "Id": 24,
       "Level": 11,
-      "Name": "King Crab *",
+      "Name": "King Crab",
       "Health": 600,
-      "IsBoss": false,
+      "IsBoss": true,
       "Gold": {
         "Min": 1,
         "Max": 1
@@ -345,9 +392,11 @@
       "Drops": [
         "Crab Helmet",
         "Jumbo Crab Claw"
-      ]
+      ],
+      "Location": "Crab Coast"
     },
     {
+      "Id": 25,
       "Level": 11,
       "Name": "Failed Spider Hunter",
       "Health": 260,
@@ -360,9 +409,11 @@
         "Rusty Axe",
         "Lockjaw",
         "Man Ring"
-      ]
+      ],
+      "Location": "Crab Coast"
     },
     {
+      "Id": 26,
       "Level": 11,
       "Name": "Zombeet",
       "Health": 500,
@@ -375,9 +426,11 @@
         "The Centurion",
         "Small Health Potion",
         "Small Energy Potion"
-      ]
+      ],
+      "Location": "Crab Coast"
     },
     {
+      "Id": 27,
       "Level": 11,
       "Name": "Skelechop",
       "Health": 290,
@@ -389,9 +442,11 @@
       "Drops": [
         "Guardsman's Axe",
         "Rusty Leg Armor"
-      ]
+      ],
+      "Location": "Crab Coast"
     },
     {
+      "Id": 28,
       "Level": 11,
       "Name": "Skeleblock",
       "Health": 400,
@@ -403,9 +458,11 @@
       "Drops": [
         "Rusty Body Armor",
         "Round Wooden Shield"
-      ]
+      ],
+      "Location": "Crab Coast"
     },
     {
+      "Id": 29,
       "Level": 12,
       "Name": "Dirt Spider",
       "Health": 500,
@@ -419,9 +476,11 @@
         "Quality Standard Bow",
         "Quality Small Sword",
         "Spider Bow"
-      ]
+      ],
+      "Location": "Crab Coast"
     },
     {
+      "Id": 30,
       "Level": 12,
       "Name": "Green Slime",
       "Health": 400,
@@ -435,9 +494,11 @@
         "Round Metal Shield",
         "Standard Bow",
         "Glowing Wand"
-      ]
+      ],
+      "Location": "Crab Coast"
     },
     {
+      "Id": 31,
       "Level": 12,
       "Name": "Skelestab",
       "Health": 300,
@@ -451,9 +512,11 @@
         "Johnny Rotten",
         "Rusty Leg Armor",
         "Rust Never Sleeps (Legs)"
-      ]
+      ],
+      "Location": "Crab Coast"
     },
     {
+      "Id": 32,
       "Level": 13,
       "Name": "Skeleguard",
       "Health": 400,
@@ -467,9 +530,11 @@
         "Skeleguard Skull",
         "Rusty Body Armor",
         "Rust Never Sleeps (Body)"
-      ]
+      ],
+      "Location": "Crab Coast"
     },
     {
+      "Id": 33,
       "Level": 14,
       "Name": "Skele Elite",
       "Health": 400,
@@ -483,13 +548,15 @@
         "Quality Metal Shield",
         "Long Metal Sword",
         "Blue Steel"
-      ]
+      ],
+      "Location": "Crab Coast"
     },
     {
+      "Id": 34,
       "Level": 14,
-      "Name": "Lucky Skull Spider *",
+      "Name": "Lucky Skull Spider",
       "Health": 1000,
-      "IsBoss": false,
+      "IsBoss": true,
       "Gold": {
         "Min": 2,
         "Max": 19
@@ -497,13 +564,15 @@
       "Drops": [
         "Lucky 8 Skull",
         "Long Sword"
-      ]
+      ],
+      "Location": "Crab Coast"
     },
     {
+      "Id": 35,
       "Level": 16,
-      "Name": "Skele Champion *",
+      "Name": "Skele Champion",
       "Health": 1500,
-      "IsBoss": false,
+      "IsBoss": true,
       "Gold": {
         "Min": 1,
         "Max": 29
@@ -512,6 +581,7 @@
         "Brutal Axe",
         "Steel Staff",
         "Small Health Potion"
-      ]
+      ],
+      "Location": "Crab Coast"
     }
   ]

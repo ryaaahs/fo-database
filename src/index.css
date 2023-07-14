@@ -12,18 +12,18 @@
 }
 
 @font-face {
-  font-family: 'ConnectionIi';
-  src: local('ConnectionIi'), url(./assets/Fonts/ConnectionIi.otf) format('opentype');
+  font-family: 'ConnectionII';
+  src: local('ConnectionII'), url(./assets/Fonts/ConnectionII.otf) format('opentype');
 }
 
 :root {
   color: white;
-  font-family: ConnectionIi;
-  
+  font-family: ConnectionII; 
 }
 
 html, body, #root{
-  height: 100%
+  height: 100%;
+  overflow-y: hidden;
 }
 
 body {
