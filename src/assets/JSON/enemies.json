@@ -20,18 +20,10 @@
         "Max": 1
       },
       "Drops": [
-        {
-          "Name": "Adult Diapers"
-        },
-        {
-          "Name": "Tiny Crab Claw"
-        },
-        {
-          "Name": "Class Ring"
-        },
-        {
-          "Name": "Toy Bow"
-        }
+        "Adult Diapers",
+        "Tiny Crab Claw",
+        "Class Ring",
+        "Toy Bow"
       ]
     },
     {
@@ -44,12 +36,8 @@
         "Max": 1
       },
       "Drops": [
-        {
-          "Name": "Turnip"
-        },
-        {
-          "Name": "Toy Sword"
-        }
+        "Turnip",
+        "Toy Sword"
       ]
     },
     {
@@ -62,9 +50,7 @@
         "Max": 10
       },
       "Drops": [
-        {
-          "Name": "Adult Diapers"
-        }
+        "Adult Diapers"
       ]
     },
     {
@@ -77,9 +63,7 @@
         "Max": 1
       },
       "Drops": [
-        {
-          "Name": "Pumpkin Mush"
-        }
+        "Pumpkin Mush"
       ]
     },
     {
@@ -92,15 +76,9 @@
         "Max": 1
       },
       "Drops": [
-        {
-          "Name": "Bone Dust"
-        },
-        {
-          "Name": "Skele Doll"
-        },
-        {
-          "Name": "Woodsman's Hatchet"
-        }
+        "Bone Dust",
+        "Skele Doll",
+        "Woodsman's Hatchet"
       ]
     },
     {
@@ -113,12 +91,8 @@
         "Max": 1
       },
       "Drops": [
-        {
-          "Name": "Bone Dust"
-        },
-        {
-          "Name": "Skull"
-        }
+        "Bone Dust",
+        "Skull"
       ]
     },
     {
@@ -131,18 +105,10 @@
         "Max": 2
       },
       "Drops": [
-        {
-          "Name": "Bone Dust"
-        },
-        {
-          "Name": "Skull"
-        },
-        {
-          "Name": "Skele Doll"
-        },
-        {
-          "Name": "Buckler of Roundness"
-        }
+        "Bone Dust",
+        "Skull",
+        "Skele Doll",
+        "Buckler of Roundness"
       ]
     },
     {
@@ -155,15 +121,9 @@
         "Max": 2
       },
       "Drops": [
-        {
-          "Name": "Bone Dust"
-        },
-        {
-          "Name": "Skull"
-        },
-        {
-          "Name": "Small Ring of Endurance"
-        }
+        "Bone Dust",
+        "Skull",
+        "Small Ring of Endurance"
       ]
     },
     {
@@ -176,9 +136,7 @@
         "Max": 2
       },
       "Drops": [
-        {
-          "Name": "Woodsman's Axe"
-        }
+        "Woodsman's Axe"
       ]
     },
     {
@@ -191,15 +149,9 @@
         "Max": 3
       },
       "Drops": [
-        {
-          "Name": "Evil Army Enlistment Card"
-        },
-        {
-          "Name": "Training Sword"
-        },
-        {
-          "Name": "G.E.D"
-        }
+        "Evil Army Enlistment Card",
+        "Training Sword",
+        "G.E.D"
       ]
     },
     {
@@ -212,12 +164,8 @@
         "Max": 2
       },
       "Drops": [
-        {
-          "Name": "Evil Army Enlistment Card"
-        },
-        {
-          "Name": "Henching for Dummies"
-        }
+        "Evil Army Enlistment Card",
+        "Henching for Dummies"
       ]
     },
     {
@@ -230,15 +178,9 @@
         "Max": 3
       },
       "Drops": [
-        {
-          "Name": "Crab Claw"
-        },
-        {
-          "Name": "Spicy Crab Meat Chunk"
-        },
-        {
-          "Name": "Crab Helmet"
-        }
+        "Crab Claw",
+        "Spicy Crab Meat Chunk",
+        "Crab Helmet"
       ]
     },
     {
@@ -251,15 +193,9 @@
         "Max": 2
       },
       "Drops": [
-        {
-          "Name": "Bone Dust"
-        },
-        {
-          "Name": "Giant Skull"
-        },
-        {
-          "Name": "Skele Doll"
-        }
+        "Bone Dust",
+        "Giant Skull",
+        "Skele Doll"
       ]
     },
     {
@@ -272,12 +208,8 @@
         "Max": 3
       },
       "Drops": [
-        {
-          "Name": "Dull Wooden Sword"
-        },
-        {
-          "Name": "Class Ring"
-        }
+        "Dull Wooden Sword",
+        "Class Ring"
       ]
     },
     {
@@ -290,15 +222,9 @@
         "Max": 3
       },
       "Drops": [
-        {
-          "Name": "Shield of Cowardice"
-        },
-        {
-          "Name": "Henching for Dummies"
-        },
-        {
-          "Name": "Pants of Spandex"
-        }
+        "Shield of Cowardice",
+        "Henching for Dummies",
+        "Pants of Spandex"
       ]
     },
     {
@@ -311,12 +237,8 @@
         "Max": 1
       },
       "Drops": [
-        {
-          "Name": "Rusty Sword"
-        },
-        {
-          "Name": "Broken Bow"
-        }
+        "Rusty Sword",
+        "Broken Bow"
       ]
     },
     {
@@ -329,12 +251,8 @@
         "Max": 7
       },
       "Drops": [
-        {
-          "Name": "Crab Claw"
-        },
-        {
-          "Name": "Royal Crab Jelly Clump"
-        }
+        "Crab Claw",
+        "Royal Crab Jelly Clump"
       ]
     },
     {
@@ -347,15 +265,9 @@
         "Max": 19
       },
       "Drops": [
-        {
-          "Name": "Standard Sword"
-        },
-        {
-          "Name": "Man Ring"
-        },
-        {
-          "Name": "G.E.D"
-        }
+        "Standard Sword",
+        "Man Ring",
+        "G.E.D"
       ]
     },
     {
@@ -368,18 +280,10 @@
         "Max": 4
       },
       "Drops": [
-        {
-          "Name": "Crab Helmet"
-        },
-        {
-          "Name": "Crab Body Armor"
-        },
-        {
-          "Name": "Crab Leg Armor"
-        },
-        {
-          "Name": "Crab Claw"
-        }
+        "Crab Helmet",
+        "Crab Body Armor",
+        "Crab Leg Armor",
+        "Crab Claw"
       ]
     },
     {
@@ -392,15 +296,9 @@
         "Max": 3
       },
       "Drops": [
-        {
-          "Name": "Killed Tomato"
-        },
-        {
-          "Name": "Small Ring of Endurance"
-        },
-        {
-          "Name": "Pointy Stick"
-        }
+        "Killed Tomato",
+        "Small Ring of Endurance",
+        "Pointy Stick"
       ]
     },
     {
@@ -413,18 +311,10 @@
         "Max": 1
       },
       "Drops": [
-        {
-          "Name": "Spider Guts"
-        },
-        {
-          "Name": "Glowing Wand"
-        },
-        {
-          "Name": "Rusty Axe"
-        },
-        {
-          "Name": "Small Ring of Protection"
-        }
+        "Spider Guts",
+        "Glowing Wand",
+        "Rusty Axe",
+        "Small Ring of Protection"
       ]
     },
     {
@@ -437,18 +327,10 @@
         "Max": 5
       },
       "Drops": [
-        {
-          "Name": "Slimy Sword"
-        },
-        {
-          "Name": "Steel Staff"
-        },
-        {
-          "Name": "Small Energy Potion"
-        },
-        {
-          "Name": "Glowing Wand"
-        }
+        "Slimy Sword",
+        "Steel Staff",
+        "Small Energy Potion",
+        "Glowing Wand"
       ]
     },
     {
@@ -461,12 +343,8 @@
         "Max": 1
       },
       "Drops": [
-        {
-          "Name": "Crab Helmet"
-        },
-        {
-          "Name": "Jumbo Crab Claw"
-        }
+        "Crab Helmet",
+        "Jumbo Crab Claw"
       ]
     },
     {
@@ -479,15 +357,9 @@
         "Max": 4
       },
       "Drops": [
-        {
-          "Name": "Rusty Axe"
-        },
-        {
-          "Name": "Lockjaw"
-        },
-        {
-          "Name": "Man Ring"
-        }
+        "Rusty Axe",
+        "Lockjaw",
+        "Man Ring"
       ]
     },
     {
@@ -500,15 +372,9 @@
         "Max": 3
       },
       "Drops": [
-        {
-          "Name": "The Centurion"
-        },
-        {
-          "Name": "Small Health Potion"
-        },
-        {
-          "Name": "Small Energy Potion"
-        }
+        "The Centurion",
+        "Small Health Potion",
+        "Small Energy Potion"
       ]
     },
     {
@@ -521,12 +387,8 @@
         "Max": 4
       },
       "Drops": [
-        {
-          "Name": "Guardsman's Axe"
-        },
-        {
-          "Name": "Rusty Leg Armor"
-        }
+        "Guardsman's Axe",
+        "Rusty Leg Armor"
       ]
     },
     {
@@ -539,12 +401,8 @@
         "Max": 4
       },
       "Drops": [
-        {
-          "Name": "Rusty Body Armor"
-        },
-        {
-          "Name": "Round Wooden Shield"
-        }
+        "Rusty Body Armor",
+        "Round Wooden Shield"
       ]
     },
     {
@@ -557,18 +415,10 @@
         "Max": 5
       },
       "Drops": [
-        {
-          "Name": "Spider Guts"
-        },
-        {
-          "Name": "Quality Standard Bow"
-        },
-        {
-          "Name": "Quality Small Sword"
-        },
-        {
-          "Name": "Spider Bow"
-        }
+        "Spider Guts",
+        "Quality Standard Bow",
+        "Quality Small Sword",
+        "Spider Bow"
       ]
     },
     {
@@ -581,18 +431,10 @@
         "Max": 4
       },
       "Drops": [
-        {
-          "Name": "Slimy Zombeet"
-        },
-        {
-          "Name": "Round Metal Shield"
-        },
-        {
-          "Name": "Standard Bow"
-        },
-        {
-          "Name": "Glowing Wand"
-        }
+        "Slimy Zombeet",
+        "Round Metal Shield",
+        "Standard Bow",
+        "Glowing Wand"
       ]
     },
     {
@@ -605,18 +447,10 @@
         "Max": 6
       },
       "Drops": [
-        {
-          "Name": "Rusty Sword"
-        },
-        {
-          "Name": "Johnny Rotten"
-        },
-        {
-          "Name": "Rusty Leg Armor"
-        },
-        {
-          "Name": "Rust Never Sleeps (Legs)"
-        }
+        "Rusty Sword",
+        "Johnny Rotten",
+        "Rusty Leg Armor",
+        "Rust Never Sleeps (Legs)"
       ]
     },
     {
@@ -629,18 +463,10 @@
         "Max": 6
       },
       "Drops": [
-        {
-          "Name": "Crusader Shield"
-        },
-        {
-          "Name": "Skeleguard Skull"
-        },
-        {
-          "Name": "Rusty Body Armor"
-        },
-        {
-          "Name": "Rust Never Sleeps (Body)"
-        }
+        "Crusader Shield",
+        "Skeleguard Skull",
+        "Rusty Body Armor",
+        "Rust Never Sleeps (Body)"
       ]
     },
     {
@@ -653,18 +479,10 @@
         "Max": 9
       },
       "Drops": [
-        {
-          "Name": "Bash Shield"
-        },
-        {
-          "Name": "Quality Metal Shield"
-        },
-        {
-          "Name": "Long Metal Sword"
-        },
-        {
-          "Name": "Blue Steel"
-        }
+        "Bash Shield",
+        "Quality Metal Shield",
+        "Long Metal Sword",
+        "Blue Steel"
       ]
     },
     {
@@ -677,12 +495,8 @@
         "Max": 19
       },
       "Drops": [
-        {
-          "Name": "Lucky 8 Skull"
-        },
-        {
-          "Name": "Long Sword"
-        }
+        "Lucky 8 Skull",
+        "Long Sword"
       ]
     },
     {
@@ -695,15 +509,9 @@
         "Max": 29
       },
       "Drops": [
-        {
-          "Name": "Brutal Axe"
-        },
-        {
-          "Name": "Steel Staff"
-        },
-        {
-          "Name": "Small Health Potion"
-        }
+        "Brutal Axe",
+        "Steel Staff",
+        "Small Health Potion"
       ]
     }
   ]

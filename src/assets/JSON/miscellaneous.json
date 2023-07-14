@@ -1,0 +1,107 @@
+[
+    {
+        "Id": 1,
+        "Name": "Turnip",
+        "Sell": 1,
+        "Drops by": ["Turniphead"],
+        "Sold By": []
+    },
+    {
+        "Id": 2,
+        "Name": "Bone Dust",
+        "Sell": 1,
+        "Drops by": ["Dwarf_Skele", "Skele", "Armed_Skele", "Angry_Skele", "Giant_Skele"],
+        "Sold By": []
+    },
+    {
+        "Id": 3,
+        "Name": "Skull",
+        "Sell": 1,
+        "Drops by": ["Skele", "Armed_Skele", "Angry_Skele", "Giant_Skele", "Skeleguard"],
+        "Sold By": []
+    },
+    {
+        "Id": 4,
+        "Name": "Evil Army Enlistment Card",
+        "Sell": 1,
+        "Drops by": ["Recruit_Of_Evil", "Intern_Of_Evil"],
+        "Sold By": []
+    },
+    {
+        "Id": 5,
+        "Name": "Evil Army Enlistment Card",
+        "Sell": 1,
+        "Drops by": ["Spicy_Red_Crab"],
+        "Sold By": []
+    },
+    {
+        "Id": 6,
+        "Name": "Giant Skull",
+        "Sell": 1,
+        "Drops by": ["Giant_Skele"],
+        "Sold By": []
+    },
+    {
+        "Id": 7,
+        "Name": "Royal Crab Jelly Clump",
+        "Sell": 1,
+        "Drops by": ["Royal_Purple_Crab"],
+        "Sold By": []
+    },
+    {
+        "Id": 8,
+        "Name": "Killed Tomato",
+        "Sell": 1,
+        "Drops by": ["Killer_Tomato"],
+        "Sold By": []
+    },
+    {
+        "Id": 9,
+        "Name": "Slimy Sword",
+        "Sell": 1,
+        "Drops by": ["Yellow_Slime"],
+        "Sold By": []
+    },
+    {
+        "Id": 10,
+        "Name": "Skeleguard Skull",
+        "Sell": 1,
+        "Drops by": ["Skeleguard"],
+        "Sold By": []
+    },
+    {
+        "Id": 11,
+        "Name": "Green Slime",
+        "Sell": 1,
+        "Drops by": ["Green_Slime"],
+        "Sold By": []
+    },
+    {
+        "Id": 12,
+        "Name": "Spider Guts",
+        "Sell": 5,
+        "Drops by": ["Baby_Dỉrt_Spider", "Dirt_Spider"],
+        "Sold By": []
+    },
+    {
+        "Id": 13,
+        "Name": "Skele Doll",
+        "Sell": 25,
+        "Drops by": ["Drawf_Skele", "Armed_Skele", "Giant_Skele"],
+        "Sold By": []
+    },
+    {
+        "Id": 13,
+        "Name": "Henching for Dummies",
+        "Sell": 30,
+        "Drops by": ["Intern_Of_Evil", "Evil_Guard"],
+        "Sold By": []
+    },
+    {
+        "Id": 13,
+        "Name": "Lucky 8 Skull",
+        "Sell": 35,
+        "Drops by": ["Lucky_Skull_Spider"],
+        "Sold By": []
+    }
+]

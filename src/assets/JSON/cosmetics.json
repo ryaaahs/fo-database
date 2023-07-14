@@ -1,0 +1,14 @@
+[
+    {
+        "Id": 1,
+        "Name": "Alpha Halo",
+        "Sell": 0,
+        "Released": "FO2 Alpha"
+    },
+    {
+        "Id": 2,
+        "Name": "Angel Wings",
+        "Sell": 0,
+        "Released": "FO2 Alpha"
+    }
+]
