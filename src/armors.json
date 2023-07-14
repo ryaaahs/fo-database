@@ -3,126 +3,167 @@
         "Id": 1,
         "Name": "Adult Diapers",
         "Slot": "Legs",
-        "Sell": 5
+        "Sell": 5,
+        "Drops by": ["Soft_Shelled_Crab", "Domesticated_Orge"],
+        "Sold By": []
     },
     {
         "Id": 2,
-        "Name": "Crab Helmet",
+        "Name": "Filthy Pants",
         "Slot": "Head",
-        "Sell,": 5
+        "Sell": 40,
+        "Drops by": [],
+        "Sold By": ["Sal's Wears"]
     },
     {
         "Id": 3,
-        "Name": "Barrel Lid",
-        "Slot": "Shield",
-        "Sell": 25
+        "Name": "Wanderer's Cloak",
+        "Slot": "Body",
+        "Sell": 100,
+        "Drops by": [],
+        "Sold By": ["Sal's Wears"]
     },
     {
         "Id": 4,
-        "Name": "Rusty Leg Armor",
-        "Slot": "Legs",
-        "Sell,": 30
+        "Name": "Pointy Helmet",
+        "Slot": "Head",
+        "Sell": 40,
+        "Drops by": [],
+        "Sold By": ["Sal's Wears"]
     },
     {
         "Id": 5,
-        "Name": "Crab Leg Armor",
-        "Slot": "Legs",
-        "Sel,": 35
+        "Name": "Barrel Lid",
+        "Slot": "Shield",
+        "Sell": 25,
+        "Drops by": [],
+        "Sold By": ["Sal's Wears"]
     },
     {
         "Id": 6,
-        "Name": "Pointy Helmet",
-        "Slot": "Head",
-        "Sell": 40
+        "Name": "Buckler of Roundness",
+        "Slot": "Sheild",
+        "Sell": 40,
+        "Drops by": ["Armed_Skele"],
+        "Sold By": []
     },
     {
         "Id": 7,
-        "Name": "Filthy Pants",
-        "Slot": "Head",
-        "Sell": 40
+        "Name": "Shield of Cowardice",
+        "Slot": "Shield",
+        "Sell": 50,
+        "Drops by": ["Evil_Guard"],
+        "Sold By": []
     },
     {
         "Id": 8,
-        "Name": "Buckler of Roundness",
-        "Slot": "Sheild",
-        "Sell": 40
+        "Name": "Pants of Spandex",
+        "Slot": "Legs",
+        "Sell": 75,
+        "Drops by": ["Evil_Guard"],
+        "Sold By": []
     },
     {
         "Id": 9,
-        "Name": "Crab Body Armor",
-        "Slot": "Body",
-        "Sell,": 50
+        "Name": "Crab Helmet",
+        "Slot": "Head",
+        "Sell,": 5,
+        "Drops by": ["Spicy_Red_Crab", "Rock_Crab", "King_Crab"],
+        "Sold By": []
     },
     {
         "Id": 10,
-        "Name": "Shield of Cowardice",
-        "Slot": "Shield",
-        "Sell": 50
+        "Name": "Crab Body Armor",
+        "Slot": "Body",
+        "Sell,": 50,
+        "Drops by": ["Rock_Crab"],
+        "Sold By": []
     },
     {
         "Id": 11,
-        "Name": "Rusty Body Armor",
-        "Slot": "Body",
-        "Sell,": 60
+        "Name": "Crab Leg Armor",
+        "Slot": "Legs",
+        "Sel,": 35,
+        "Drops by": ["Rock_Crab"],
+        "Sold By": []
     },
     {
         "Id": 12,
-        "Name": "Round Wooden Shield",
+        "Name": "The Centurion",
         "Slot": "Shield",
-        "Sell": 70
+        "Sell": 250,
+        "Drops by": ["Zombeet"],
+        "Sold By": []
     },
     {
         "Id": 13,
-        "Name": "Pants of Spandex",
+        "Name": "Rusty Leg Armor",
         "Slot": "Legs",
-        "Sell": 75
+        "Sell,": 30,
+        "Drops by": ["Skelechop", "Skelestab"],
+        "Sold By": []
     },
     {
         "Id": 14,
-        "Name": "Round Metal Shield",
-        "Slot": "Shield",
-        "Sell": 95
+        "Name": "Rusty Body Armor",
+        "Slot": "Body",
+        "Sell,": 60,
+        "Drops by": ["Skeleblock", "Skeleguard"],
+        "Sold By": []
     },
     {
         "Id": 15,
-        "Name": "Wanderer's Cloak",
-        "Slot": "Body",
-        "Sell": 100
+        "Name": "Round Wooden Shield",
+        "Slot": "Shield",
+        "Sell": 70,
+        "Drops by": ["Skeleblock"],
+        "Sold By": []
     },
     {
         "Id": 16,
-        "Name": "Bash Shield",
+        "Name": "Round Metal Shield",
         "Slot": "Shield",
-        "Sell": 150
+        "Sell": 95,
+        "Drops by": ["Green_Slime"],
+        "Sold By": []
     },
     {
         "Id": 17,
         "Name": "Rust Never Sleeps",
         "Slot": "Legs",
-        "Sell": 190
+        "Sell": 190,
+        "Drops by": ["Skelestab"],
+        "Sold By": []
     },
     {
         "Id": 18,
+        "Name": "Crusader Shield",
+        "Slot": "Shield",
+        "Sell": 230,
+        "Drops by": ["Skeleguard"],
+        "Sold By": []
+    },{
+        "Id": 19,
         "Name": "Rust Never Sleeps",
         "Slot": "Body",
-        "Sell": 200
-    },
-    {
-        "Id": 19,
-        "Name": "The Crusader",
-        "Slot": "Shield",
-        "Sell": 230
+        "Sell": 200,
+        "Drops by": ["Skeleguard"],
+        "Sold By": []
     },
     {
         "Id": 20,
-        "Name": "The Centurion",
+        "Name": "Bash Shield",
         "Slot": "Shield",
-        "Sell": 250
+        "Sell": 150,
+        "Drops by": ["Skele_Elite"],
+        "Sold By": []
     },
     {
         "Id": 21,
         "Name": "Quality Metal Shield",
         "Slot": "Shield",
-        "Sell": 350
-    }
+        "Sell": 350,
+        "Drops by": ["Skele_Elite"],
+        "Sold By": []
+    } 
 ]
