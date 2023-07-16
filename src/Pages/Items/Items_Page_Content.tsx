@@ -24,19 +24,17 @@ function Items_Page_Content() {
 
     return (
         <>
-            <div className="w-full overflow-y-scroll">
-                <div className="ml-4 mt-2 flex flex-col overflow-x-hidden w-3/5">
-                    <Content 
-                        title={"Items"}
-                        description={<p>
-                        A diverse range of loot to collect from your defeated foes. 
-                        Whether it's a fresh equipment piece or a fragment of a quest item, 
-                        every new adversary you face will bring abundant rewards.  
-                        </p>}
-                    />
-                    <div className="mt-6">
-                        { itemTypesList }
-                    </div>
+            <div className="ml-4 mt-2 flex flex-col overflow-x-hidden w-3/5">
+                <Content 
+                    title={"Items"}
+                    description={<p className="text-lg">
+                    A diverse range of loot to collect from your defeated foes. 
+                    Whether it's a fresh equipment piece or a fragment of a quest item, 
+                    every new adversary you face will bring abundant rewards.  
+                    </p>}
+                />
+                <div className="mt-6">
+                    { itemTypesList }
                 </div>
             </div>
         </>

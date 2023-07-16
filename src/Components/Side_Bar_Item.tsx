@@ -11,7 +11,9 @@ function Side_Bar_Item({ name }:SideBarItemInterface) {
             <div className="overflow-hidden hover:bg-[#345ba8] relative flex h-10  hover:cursor-pointer">
                 <Link className="flex grow" to={linkName(name)}>
                     <section className="self-center pl-4">
-                        {name}
+                        <p>
+                            {name}
+                        </p> 
                     </section>
                 </Link>
             </div>

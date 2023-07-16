@@ -1,8 +1,13 @@
-import { useEffect } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
 
+function scaleImage(ref:any, scale:number) {
+  const image = ref.current;
+  image.width = image.naturalWidth * scale;
+  image.height = image.naturalHeight * scale;
+}
 
-function convertToPathway ( value:String ){ 
+function convertToPathway (value:String ){ 
     return value.replace(/\ /g, "_");
 }
 
@@ -20,7 +25,7 @@ function linkName (value: string) {
 }
 
 function useTitle(title:string) {
-  useEffect(() => {
+  React.useEffect(() => {
     const prevTitle = document.title
     document.title = title;
     return () => {
@@ -35,13 +40,13 @@ function displayDrops (list:Object[]) {
     let items = [];
 
     if (list === undefined || list.length === 0) {
-      items.push(<div className="inline-block">N/A</div>)
+      items.push(<div key="0" className="inline-block">N/A</div>)
     } else {
       for (const [index, item] of list.entries()) {
         items.push( 
           <div key={ index } className="pt-2">
             <Link to={ convertToPathway(`../${item.Item_Type}/${convertToPathway(item.Name)}`) }>    
-                <span className="text-sky-500 underline" ><h3>{ item.Name }</h3></span>
+                <span className="text-sky-500 underline inline-block" ><h3>{ item.Name }</h3></span>
             </Link> 
           </div>
         )
