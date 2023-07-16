@@ -3,9 +3,6 @@ import Maps from "../../assets/JSON/maps.json";
 import { convertToPathway, linkName } from "../../utils";
 import { Link, useNavigate } from "react-router-dom";
 
-
-
-
 function Maps_Page_Content() {
     const navigate  = useNavigate();
 

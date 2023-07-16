@@ -1,587 +1,875 @@
 [
-    {
-      "Id": 1,
-      "Level": 1,
-      "Name": "Scarecrab",
-      "Health": 30,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 2
-      },
-      "Drops": [],
-      "Location": "Noob Island"
+  {
+    "Id": 1,
+    "Level": 1,
+    "Name": "Scarecrab",
+    "Health": 30,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 2
     },
-    {
-      "Id": 2,
-      "Level": 1,
-      "Name": "Soft Shelled Crab",
-      "Health": 20,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 1
-      },
-      "Drops": [
-        "Adult Diapers",
-        "Tiny Crab Claw",
-        "Class Ring",
-        "Toy Bow"
-      ],
-      "Location": "Noob Island"
+    "Location": "Noob Island",
+    "Drops": []
+  },
+  {
+    "Id": 2,
+    "Level": 1,
+    "Name": "Soft Shelled Crab",
+    "Health": 20,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 1
     },
-    {
-      "Id": 3,
-      "Level": 2,
-      "Name": "Turniphead",
-      "Health": 36,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 1
+    "Location": "Noob Island",
+    "Drops": [
+      {
+        "Name": "Adult Diapers",
+        "Item_Type": "Armors"
       },
-      "Drops": [
-        "Turnip",
-        "Toy Sword"
-      ],
-      "Location": "Noob Island"
+      {
+        "Name": "Tiny Crab Claw",
+        "Item_Type": "Consumables"
+      },
+      {
+        "Name": "Class Ring",
+        "Item_Type": "Accessories"
+      },
+      {
+        "Name": "Toy Bow",
+        "Item_Type": "Weapons"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Level": 2,
+    "Name": "Turniphead",
+    "Health": 36,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 1
     },
-    {
-      "Id": 4,
-      "Level": 3,
-      "Name": "Domesticated Ogre",
-      "Health": 300,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 10
+    "Location": "Noob Island",
+    "Drops": [
+      {
+        "Name": "Turnip",
+        "Item_Type": "Miscellaneous"
       },
-      "Drops": [
-        "Adult Diapers"
-      ],
-      "Location": "Noob Island"
+      {
+        "Name": "Toy Sword",
+        "Item_Type": "Weapons"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Level": 3,
+    "Name": "Domesticated Ogre",
+    "Health": 300,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 10
     },
-    {
-      "Id": 5,
-      "Level": 3,
-      "Name": "Pumpkinhead",
-      "Health": 70,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 1
-      },
-      "Drops": [
-        "Pumpkin Mush"
-      ],
-      "Location": "Noob Island"
+    "Location": "Noob Island",
+    "Drops": [
+      {
+        "Name": "Adult Diapers",
+        "Item_Type": "Armors"
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Level": 3,
+    "Name": "Pumpkinhead",
+    "Health": 70,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 1
     },
-    {
-      "Id": 6,
-      "Level": 3,
-      "Name": "Dwarf Skele",
-      "Health": 71,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 1
-      },
-      "Drops": [
-        "Bone Dust",
-        "Skele Doll",
-        "Woodsman's Hatchet"
-      ],
-      "Location": "Noob Island"
+    "Location": "Noob Island",
+    "Drops": [
+      {
+        "Name": "Pumpkin Mush",
+        "Item_Type": "Consumables"
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Level": 3,
+    "Name": "Dwarf Skele",
+    "Health": 71,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 1
     },
-    {
-      "Id": 7,
-      "Level": 4,
-      "Name": "Skele",
-      "Health": 90,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 1
+    "Location": "Noob Island",
+    "Drops": [
+      {
+        "Name": "Bone Dust",
+        "Item_Type": "Miscellaneous"
       },
-      "Drops": [
-        "Bone Dust",
-        "Skull"
-      ],
-      "Location": "Noob Island"
+      {
+        "Name": "Skele Doll",
+        "Item_Type": "Miscellaneous"
+      },
+      {
+        "Name": "Woodsman's Hatchet",
+        "Item_Type": "Weapons"
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Level": 4,
+    "Name": "Skele",
+    "Health": 90,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 1
     },
-    {
-      "Id": 8,
-      "Level": 5,
-      "Name": "Armed Skele",
-      "Health": 128,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 2
+    "Location": "Noob Island",
+    "Drops": [
+      {
+        "Name": "Bone Dust",
+        "Item_Type": "Miscellaneous"
       },
-      "Drops": [
-        "Bone Dust",
-        "Skull",
-        "Skele Doll",
-        "Buckler of Roundness"
-      ],
-      "Location": "Noob Island"
+      {
+        "Name": "Skull",
+        "Item_Type": "Miscellaneous"
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Level": 5,
+    "Name": "Armed Skele",
+    "Health": 128,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 2
     },
-    {
-      "Id": 9,
-      "Level": 6,
-      "Name": "Angry Skele",
-      "Health": 152,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 2
+    "Location": "Noob Island",
+    "Drops": [
+      {
+        "Name": "Bone Dust",
+        "Item_Type": "Miscellaneous"
       },
-      "Drops": [
-        "Bone Dust",
-        "Skull",
-        "Small Ring of Endurance"
-      ],
-      "Location": "Noob Island"
+      {
+        "Name": "Skull",
+        "Item_Type": "Miscellaneous"
+      },
+      {
+        "Name": "Skele Doll",
+        "Item_Type": "Miscellaneous"
+      },
+      {
+        "Name": "Buckler of Roundness",
+        "Item_Type": "Armors"
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "Level": 6,
+    "Name": "Angry Skele",
+    "Health": 152,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 2
     },
-    {
-      "Id": 10,
-      "Level": 7,
-      "Name": "Smallish Ogre",
-      "Health": 250,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 2
+    "Location": "Noob Island",
+    "Drops": [
+      {
+        "Name": "Bone Dust",
+        "Item_Type": "Miscellaneous"
       },
-      "Drops": [
-        "Woodsman's Axe"
-      ],
-      "Location": "Noob Island"
+      {
+        "Name": "Skull",
+        "Item_Type": "Miscellaneous"
+      },
+      {
+        "Name": "Small Ring of Endurance",
+        "Item_Type": "Accessories"
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "Level": 7,
+    "Name": "Smallish Ogre",
+    "Health": 250,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 2
     },
-    {
-      "Id": 11,
-      "Level": 7,
-      "Name": "Recruit Of Evil",
-      "Health": 140,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 3
-      },
-      "Drops": [
-        "Evil Army Enlistment Card",
-        "Training Sword",
-        "G.E.D"
-      ],
-      "Location": "Noob Island"
+    "Location": "Noob Island",
+    "Drops": [
+      {
+        "Name": "Woodsman's Axe",
+        "Item_Type": "Weapons"
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "Level": 7,
+    "Name": "Recruit Of Evil",
+    "Health": 140,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 3
     },
-    {
-      "Id": 12,
-      "Level": 7,
-      "Name": "Intern Of Evil",
-      "Health": 158,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 2
+    "Location": "Noob Island",
+    "Drops": [
+      {
+        "Name": "Evil Army Enlistment Card",
+        "Item_Type": "Miscellaneous"
       },
-      "Drops": [
-        "Evil Army Enlistment Card",
-        "Henching for Dummies"
-      ],
-      "Location": "Noob Island"
+      {
+        "Name": "Training Sword",
+        "Item_Type": "Weapons"
+      },
+      {
+        "Name": "G.E.D",
+        "Item_Type": "Accessories"
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "Level": 7,
+    "Name": "Intern Of Evil",
+    "Health": 158,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 2
     },
-    {
-      "Id": 13,
-      "Level": 7,
-      "Name": "Spicy Red Crab",
-      "Health": 140,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 3
+    "Location": "Noob Island",
+    "Drops": [
+      {
+        "Name": "Evil Army Enlistment Card",
+        "Item_Type": "Miscellaneous"
       },
-      "Drops": [
-        "Crab Claw",
-        "Spicy Crab Meat Chunk",
-        "Crab Helmet"
-      ],
-      "Location": "Crab Coast"
+      {
+        "Name": "Henching for Dummies",
+        "Item_Type": "Miscellaneous"
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "Level": 7,
+    "Name": "Spicy Red Crab",
+    "Health": 140,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 3
     },
-    {
-      "Id": 14,
-      "Level": 8,
-      "Name": "Giant Skele",
-      "Health": 560,
-      "IsBoss": true,
-      "Gold": {
-        "Min": 1,
-        "Max": 2
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "Crab Claw",
+        "Item_Type": "Consumables"
       },
-      "Drops": [
-        "Bone Dust",
-        "Giant Skull",
-        "Skele Doll"
-      ],
-      "Location": "Noob Island"
+      {
+        "Name": "Spicy Crab Meat Chunk",
+        "Item_Type": "Miscellaneous"
+      },
+      {
+        "Name": "Crab Helmet",
+        "Item_Type": "Armors"
+      }
+    ]
+  },
+  {
+    "Id": 14,
+    "Level": 8,
+    "Name": "Giant Skele",
+    "Health": 560,
+    "IsBoss": true,
+    "Gold": {
+      "Min": 1,
+      "Max": 2
     },
-    {
-      "Id": 15,
-      "Level": 8,
-      "Name": "Evil Swordsman",
-      "Health": 170,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 3
+    "Location": "Noob Island",
+    "Drops": [
+      {
+        "Name": "Bone Dust",
+        "Item_Type": "Miscellaneous"
       },
-      "Drops": [
-        "Dull Wooden Sword",
-        "Class Ring"
-      ],
-      "Location": "Noob Island"
+      {
+        "Name": "Giant Skull",
+        "Item_Type": "Miscellaneous"
+      },
+      {
+        "Name": "Skele Doll",
+        "Item_Type": "Miscellaneous"
+      }
+    ]
+  },
+  {
+    "Id": 15,
+    "Level": 8,
+    "Name": "Evil Swordsman",
+    "Health": 170,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 3
     },
-    {
-      "Id": 16,
-      "Level": 8,
-      "Name": "Evil Guard",
-      "Health": 300,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 3
+    "Location": "Noob Island",
+    "Drops": [
+      {
+        "Name": "Dull Wooden Sword",
+        "Item_Type": "Weapons"
       },
-      "Drops": [
-        "Shield of Cowardice",
-        "Henching for Dummies",
-        "Pants of Spandex"
-      ],
-      "Location": "Noob Island"
+      {
+        "Name": "Class Ring",
+        "Item_Type": "Accessories"
+      }
+    ]
+  },
+  {
+    "Id": 16,
+    "Level": 8,
+    "Name": "Evil Guard",
+    "Health": 300,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 3
     },
-    {
-      "Id": 17,
-      "Level": 8,
-      "Name": "Zombie Crab",
-      "Health": 600,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 1
+    "Location": "Noob Island",
+    "Drops": [
+      {
+        "Name": "Shield of Cowardice",
+        "Item_Type": "Armors"
       },
-      "Drops": [
-        "Rusty Sword",
-        "Broken Bow"
-      ],
-      "Location": "Crab Coast"
+      {
+        "Name": "Henching for Dummies",
+        "Item_Type": "Miscellaneous"
+      },
+      {
+        "Name": "Pants of Spandex",
+        "Item_Type": "Accessories"
+      }
+    ]
+  },
+  {
+    "Id": 17,
+    "Level": 8,
+    "Name": "Zombie Crab",
+    "Health": 600,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 1
     },
-    {
-      "Id": 18,
-      "Level": 8,
-      "Name": "Royal Purple Crab",
-      "Health": 280,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 7
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "Rusty Sword",
+        "Item_Type": "Weapons"
       },
-      "Drops": [
-        "Crab Claw",
-        "Royal Crab Jelly Clump"
-      ],
-      "Location": "Crab Coast"
+      {
+        "Name": "Broken Bow",
+        "Item_Type": "Weapons"
+      }
+    ]
+  },
+  {
+    "Id": 18,
+    "Level": 8,
+    "Name": "Royal Purple Crab",
+    "Health": 280,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 7
     },
-    {
-      "Id": 19,
-      "Level": 9,
-      "Name": "Evil McBadguy",
-      "Health": 380,
-      "IsBoss": true,
-      "Gold": {
-        "Min": 1,
-        "Max": 19
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "Crab Claw",
+        "Item_Type": "Consumables"
       },
-      "Drops": [
-        "Standard Sword",
-        "Man Ring",
-        "G.E.D"
-      ],
-      "Location": "Noob Island"
+      {
+        "Name": "Royal Crab Jelly Clump",
+        "Item_Type": "Miscellaneous"
+      }
+    ]
+  },
+  {
+    "Id": 19,
+    "Level": 9,
+    "Name": "Evil McBadguy",
+    "Health": 380,
+    "IsBoss": true,
+    "Gold": {
+      "Min": 1,
+      "Max": 19
     },
-    {
-      "Id": 20,
-      "Level": 9,
-      "Name": "Rock Crab",
-      "Health": 400,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 4
+    "Location": "Noob Island",
+    "Drops": [
+      {
+        "Name": "Standard Sword",
+        "Item_Type": "Weapons"
       },
-      "Drops": [
-        "Crab Helmet",
-        "Crab Body Armor",
-        "Crab Leg Armor",
-        "Crab Claw"
-      ],
-      "Location": "Crab Coast"
+      {
+        "Name": "Man Ring",
+        "Item_Type": "Accessories"
+      },
+      {
+        "Name": "G.E.D",
+        "Item_Type": "Accessories"
+      }
+    ]
+  },
+  {
+    "Id": 20,
+    "Level": 9,
+    "Name": "Rock Crab",
+    "Health": 400,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 4
     },
-    {
-      "Id": 21,
-      "Level": 9,
-      "Name": "Killer Tomato",
-      "Health": 250,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 3
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "Crab Helmet",
+        "Item_Type": "Armors"
       },
-      "Drops": [
-        "Killed Tomato",
-        "Small Ring of Endurance",
-        "Pointy Stick"
-      ],
-      "Location": "Crab Coast"
+      {
+        "Name": "Crab Body Armor",
+        "Item_Type": "Armors"
+      },
+      {
+        "Name": "Crab Leg Armor",
+        "Item_Type": "Armors"
+      },
+      {
+        "Name": "Crab Claw",
+        "Item_Type": "Consumables"
+      }
+    ]
+  },
+  {
+    "Id": 21,
+    "Level": 9,
+    "Name": "Killer Tomato",
+    "Health": 250,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 3
     },
-    {
-      "Id": 22,
-      "Level": 9,
-      "Name": "Baby Dirt Spider",
-      "Health": 160,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 1
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "Killed Tomato",
+        "Item_Type": "Miscellaneous"
       },
-      "Drops": [
-        "Spider Guts",
-        "Glowing Wand",
-        "Rusty Axe",
-        "Small Ring of Protection"
-      ],
-      "Location": "Crab Coast"
+      {
+        "Name": "Small Ring of Endurance",
+        "Item_Type": "Accessories"
+      },
+      {
+        "Name": "Pointy Stick",
+        "Item_Type": "Weapons"
+      }
+    ]
+  },
+  {
+    "Id": 22,
+    "Level": 9,
+    "Name": "Baby Dirt Spider",
+    "Health": 160,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 1
     },
-    {
-      "Id": 23,
-      "Level": 10,
-      "Name": "Yellow Slime",
-      "Health": 300,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 5
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "Spider Guts",
+        "Item_Type": "Miscellaneous"
       },
-      "Drops": [
-        "Slimy Sword",
-        "Steel Staff",
-        "Small Energy Potion",
-        "Glowing Wand"
-      ],
-      "Location": "Crab Coast"
+      {
+        "Name": "Glowing Wand",
+        "Item_Type": "Weapons"
+      },
+      {
+        "Name": "Rusty Axe",
+        "Item_Type": "Weapons"
+      },
+      {
+        "Name": "Small Ring of Protection",
+        "Item_Type": "Accessories"
+      }
+    ]
+  },
+  {
+    "Id": 23,
+    "Level": 10,
+    "Name": "Yellow Slime",
+    "Health": 300,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 5
     },
-    {
-      "Id": 24,
-      "Level": 11,
-      "Name": "King Crab",
-      "Health": 600,
-      "IsBoss": true,
-      "Gold": {
-        "Min": 1,
-        "Max": 1
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "Slimy Sword",
+        "Item_Type": "Miscellaneous"
       },
-      "Drops": [
-        "Crab Helmet",
-        "Jumbo Crab Claw"
-      ],
-      "Location": "Crab Coast"
+      {
+        "Name": "Steel Staff",
+        "Item_Type": "Weapons"
+      },
+      {
+        "Name": "Small Energy Potion",
+        "Item_Type": "Consumables"
+      },
+      {
+        "Name": "Glowing Wand",
+        "Item_Type": "Weapons"
+      }
+    ]
+  },
+  {
+    "Id": 24,
+    "Level": 11,
+    "Name": "King Crab",
+    "Health": 600,
+    "IsBoss": true,
+    "Gold": {
+      "Min": 1,
+      "Max": 1
     },
-    {
-      "Id": 25,
-      "Level": 11,
-      "Name": "Failed Spider Hunter",
-      "Health": 260,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 4
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "Crab Helmet",
+        "Item_Type": "Weapons"
       },
-      "Drops": [
-        "Rusty Axe",
-        "Lockjaw",
-        "Man Ring"
-      ],
-      "Location": "Crab Coast"
+      {
+        "Name": "Jumbo Crab Claw",
+        "Item_Type": "Consumables"
+      }
+    ]
+  },
+  {
+    "Id": 25,
+    "Level": 11,
+    "Name": "Failed Spider Hunter",
+    "Health": 260,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 4
     },
-    {
-      "Id": 26,
-      "Level": 11,
-      "Name": "Zombeet",
-      "Health": 500,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 3
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "Rusty Axe",
+        "Item_Type": "Weapons"
       },
-      "Drops": [
-        "The Centurion",
-        "Small Health Potion",
-        "Small Energy Potion"
-      ],
-      "Location": "Crab Coast"
+      {
+        "Name": "Lockjaw",
+        "Item_Type": "Weapons"
+      },
+      {
+        "Name": "Man Ring",
+        "Item_Type": "Weapons"
+      }
+    ]
+  },
+  {
+    "Id": 26,
+    "Level": 11,
+    "Name": "Zombeet",
+    "Health": 500,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 3
     },
-    {
-      "Id": 27,
-      "Level": 11,
-      "Name": "Skelechop",
-      "Health": 290,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 4
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "The Centurion",
+        "Item_Type": "Armors"
       },
-      "Drops": [
-        "Guardsman's Axe",
-        "Rusty Leg Armor"
-      ],
-      "Location": "Crab Coast"
+      {
+        "Name": "Small Health Potion",
+        "Item_Type": "Consumables"
+      },
+      {
+        "Name": "Small Energy Potion",
+        "Item_Type": "Consumables"
+      }
+    ]
+  },
+  {
+    "Id": 27,
+    "Level": 11,
+    "Name": "Skelechop",
+    "Health": 290,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 4
     },
-    {
-      "Id": 28,
-      "Level": 11,
-      "Name": "Skeleblock",
-      "Health": 400,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 4
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "Guardsman's Axe",
+        "Item_Type": "Weapons"
       },
-      "Drops": [
-        "Rusty Body Armor",
-        "Round Wooden Shield"
-      ],
-      "Location": "Crab Coast"
+      {
+        "Name": "Rusty Leg Armor",
+        "Item_Type": "Armors"
+      }
+    ]
+  },
+  {
+    "Id": 28,
+    "Level": 11,
+    "Name": "Skeleblock",
+    "Health": 400,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 4
     },
-    {
-      "Id": 29,
-      "Level": 12,
-      "Name": "Dirt Spider",
-      "Health": 500,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 5
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "Rusty Body Armor",
+        "Item_Type": "Armors"
       },
-      "Drops": [
-        "Spider Guts",
-        "Quality Standard Bow",
-        "Quality Small Sword",
-        "Spider Bow"
-      ],
-      "Location": "Crab Coast"
+      {
+        "Name": "Round Wooden Shield",
+        "Item_Type": "Armors"
+      }
+    ]
+  },
+  {
+    "Id": 29,
+    "Level": 12,
+    "Name": "Dirt Spider",
+    "Health": 500,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 5
     },
-    {
-      "Id": 30,
-      "Level": 12,
-      "Name": "Green Slime",
-      "Health": 400,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 4
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "Spider Guts",
+        "Item_Type": "Miscellaneous"
       },
-      "Drops": [
-        "Slimy Zombeet",
-        "Round Metal Shield",
-        "Standard Bow",
-        "Glowing Wand"
-      ],
-      "Location": "Crab Coast"
+      {
+        "Name": "Quality Standard Bow",
+        "Item_Type": "Weapons"
+      },
+      {
+        "Name": "Quality Small Sword",
+        "Item_Type": "Weapons"
+      },
+      {
+        "Name": "Spider Bow",
+        "Item_Type": "Weapons"
+      }
+    ]
+  },
+  {
+    "Id": 30,
+    "Level": 12,
+    "Name": "Green Slime",
+    "Health": 400,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 4
     },
-    {
-      "Id": 31,
-      "Level": 12,
-      "Name": "Skelestab",
-      "Health": 300,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 6
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "Slimy Zombeet",
+        "Item_Type": "Miscellaneous"
       },
-      "Drops": [
-        "Rusty Sword",
-        "Johnny Rotten",
-        "Rusty Leg Armor",
-        "Rust Never Sleeps (Legs)"
-      ],
-      "Location": "Crab Coast"
+      {
+        "Name": "Round Metal Shield",
+        "Item_Type": "Armors"
+      },
+      {
+        "Name": "Standard Bow",
+        "Item_Type": "Weapons"
+      },
+      {
+        "Name": "Glowing Wand",
+        "Item_Type": "Weapons"
+      }
+    ]
+  },
+  {
+    "Id": 31,
+    "Level": 12,
+    "Name": "Skelestab",
+    "Health": 300,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 6
     },
-    {
-      "Id": 32,
-      "Level": 13,
-      "Name": "Skeleguard",
-      "Health": 400,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 6
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "Rusty Sword",
+        "Item_Type": "Weapons"
       },
-      "Drops": [
-        "Crusader Shield",
-        "Skeleguard Skull",
-        "Rusty Body Armor",
-        "Rust Never Sleeps (Body)"
-      ],
-      "Location": "Crab Coast"
+      {
+        "Name": "Johnny Rotten",
+        "Item_Type": "Weapons"
+      },
+      {
+        "Name": "Rusty Leg Armor",
+        "Item_Type": "Armors"
+      },
+      {
+        "Name": "Rust Never Sleeps Legs",
+        "Item_Type": "Armors"
+      }
+    ]
+  },
+  {
+    "Id": 32,
+    "Level": 13,
+    "Name": "Skeleguard",
+    "Health": 400,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 6
     },
-    {
-      "Id": 33,
-      "Level": 14,
-      "Name": "Skele Elite",
-      "Health": 400,
-      "IsBoss": false,
-      "Gold": {
-        "Min": 1,
-        "Max": 9
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "Crusader Shield",
+        "Item_Type": "Armors"
       },
-      "Drops": [
-        "Bash Shield",
-        "Quality Metal Shield",
-        "Long Metal Sword",
-        "Blue Steel"
-      ],
-      "Location": "Crab Coast"
+      {
+        "Name": "Skeleguard Skull",
+        "Item_Type": "Miscellaneous"
+      },
+      {
+        "Name": "Rusty Body Armor",
+        "Item_Type": "Armors"
+      },
+      {
+        "Name": "Rust Never Sleeps Body",
+        "Item_Type": "Armors"
+      }
+    ]
+  },
+  {
+    "Id": 33,
+    "Level": 14,
+    "Name": "Skele Elite",
+    "Health": 400,
+    "IsBoss": false,
+    "Gold": {
+      "Min": 1,
+      "Max": 9
     },
-    {
-      "Id": 34,
-      "Level": 14,
-      "Name": "Lucky Skull Spider",
-      "Health": 1000,
-      "IsBoss": true,
-      "Gold": {
-        "Min": 2,
-        "Max": 19
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "Bash Shield",
+        "Item_Type": "Armors"
       },
-      "Drops": [
-        "Lucky 8 Skull",
-        "Long Sword"
-      ],
-      "Location": "Crab Coast"
+      {
+        "Name": "Quality Metal Shield",
+        "Item_Type": "Armors"
+      },
+      {
+        "Name": "Long Metal Sword",
+        "Item_Type": "Weapons"
+      },
+      {
+        "Name": "Blue Steel",
+        "Item_Type": "Weapons"
+      }
+    ]
+  },
+  {
+    "Id": 34,
+    "Level": 14,
+    "Name": "Lucky Skull Spider",
+    "Health": 1000,
+    "IsBoss": true,
+    "Gold": {
+      "Min": 2,
+      "Max": 19
     },
-    {
-      "Id": 35,
-      "Level": 16,
-      "Name": "Skele Champion",
-      "Health": 1500,
-      "IsBoss": true,
-      "Gold": {
-        "Min": 1,
-        "Max": 29
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "Lucky 8 Skull",
+        "Item_Type": "Miscellaneous"
       },
-      "Drops": [
-        "Brutal Axe",
-        "Steel Staff",
-        "Small Health Potion"
-      ],
-      "Location": "Crab Coast"
-    }
-  ]
+      {
+        "Name": "Long Sword",
+        "Item_Type": "Weapons"
+      }
+    ]
+  },
+  {
+    "Id": 35,
+    "Level": 16,
+    "Name": "Skele Champion",
+    "Health": 1500,
+    "IsBoss": true,
+    "Gold": {
+      "Min": 1,
+      "Max": 29
+    },
+    "Location": "Crab Coast",
+    "Drops": [
+      {
+        "Name": "Brutal Axe",
+        "Item_Type": "Weapons"
+      },
+      {
+        "Name": "Steel Staff",
+        "Item_Type": "Weapons"
+      },
+      {
+        "Name": "Small Health Potion",
+        "Item_Type": "Consumables"
+      }
+    ]
+  }
+]

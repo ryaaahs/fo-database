@@ -1,5 +1,4 @@
 import Content from "../../Components/Content";
-import Maps from "../../assets/JSON/maps.json";
 
 function Home_Page_Content() {
     

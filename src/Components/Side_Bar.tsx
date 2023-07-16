@@ -1,4 +1,4 @@
-import Side_Bar_Item from "./Side_Bar_Item/Side_Bar_Item"
+import Side_Bar_Item from "./Side_Bar_Item"
 
 const section_one_items = [
     {id: 1, name: "Home"},
@@ -16,7 +16,7 @@ const itemSectionTwoList = section_two_items.map(item => <Side_Bar_Item key={ite
 function Side_Bar() {
     return (
         <>
-            <div className="flex flex-col w-1/5 h-full bg-[#003194]">
+            <div className="flex flex-col w-1/5 h-full bg-[#002a7f]">
                 <section className="my-2">
                     { itemSectionOneList }
                 </section>

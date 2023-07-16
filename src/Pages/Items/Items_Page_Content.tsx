@@ -2,8 +2,6 @@ import Content from "../../Components/Content";
 import { Link, useNavigate } from "react-router-dom";
 import { linkName } from "../../utils";
 
-
-
 const item_types = [
     {id: 1, name: "Weapons"},
     {id: 2, name: "Armors"},
@@ -11,8 +9,6 @@ const item_types = [
     {id: 4, name: "Consumables"},
     {id: 5, name: "Cosmetics"},
 ]
-
-
 
 function Items_Page_Content() {
     const navigate  = useNavigate();
